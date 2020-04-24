@@ -305,7 +305,7 @@ router.post("/api/post", function (req, res) {
     function (err, doc) {
       if (err) return res.send(500, { error: err });
       // console.log("yeaah");
-      req.session.postQuestion = true;
+      req.session.completed = true;
       console.log("ASdasd");
       return res.send("successfully saved!");
     }
@@ -350,7 +350,7 @@ router.get("/intermission", function (req, res) {
 
 router.get("/instructions/correlation", function (req, res) {
   if (req.session.completed) {
-    res.render("debrief.html");
+    res.render("debriefMTurk.html");
   } else {
     res.render("instructionsCorrelation.html");
   }
@@ -366,7 +366,7 @@ router.get("/instructions/task", function (req, res) {
 
 router.get("/instructions/uncertainty", function (req, res) {
   if (req.session.completed) {
-    res.render("debrief.html");
+    res.render("debriefMTurk.html");
   } else {
     if (req.session.visGroup === "line") {
       res.render("instructionsLine.html");
@@ -448,7 +448,7 @@ router.get("/dataviz", function (req, res) {
 });
 
 router.get("/next", function (req, res) {
-  if (req.session.varIndex < variables.length / 2) {
+  if (req.session.varIndex <= variables.length / 2) {
     if (req.session.stateIndex === 0) {
       req.session.stateIndex += 1;
       req.session.state = states[req.session.stateIndex];
@@ -461,7 +461,11 @@ router.get("/next", function (req, res) {
       req.session.varIndex += 1;
       req.session.stateIndex = 0;
       req.session.state = states[req.session.stateIndex];
-      res.redirect("/intermission");
+      if (req.session.varIndex === parseInt(variables.length / 2)) {
+        res.redirect("attention");
+      } else {
+        res.redirect("/intermission");
+      }
     }
     // else {
     //   req.session.stateIndex = 0;

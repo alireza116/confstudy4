@@ -41,10 +41,9 @@
   <body>
     <div class="container bg-light">
       <form class="questions">
-
         <p>
-        You have completed the first round of the task. Please respond to the questions below 
-        before continuing on to the rest of the task.
+          You have completed the first round of the task. Please respond to the
+          questions below before continuing on to the rest of the task.
         </p>
 
         <h3>
@@ -101,7 +100,7 @@
     <!-- <script src="/js/article.js"></script>
 <script src="/js/study.js"></script> -->
     <script>
-      $("#presubmit").click(function(event) {
+      $("#presubmit").click(function (event) {
         event.preventDefault();
         var data = $(".questions").serializeArray();
         console.log(data);
@@ -118,10 +117,10 @@
           $.post(
             "/api/attention",
             data,
-            (success = function(d) {
+            (success = function (d) {
               console.log(d);
               console.log("success");
-              window.location.assign("/instructions/uncertainty");
+              window.location.assign("/intermission");
             })
           );
         } else {
