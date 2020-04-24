@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Uncerainty Visualization</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+
+    <link rel="stylesheet" href="/css/preforms.css" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.js"
+      integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      #instructions {
+        text-align: center;
+      }
+      .container {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        width: 100%;
+      }
+
+      #varX,
+      #varY {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="height: 100%;" class="container bg-light" id="instructions">
+      <div>
+        <h4>Stage <span id="varNumber">1</span> out of 16</h4>
+        <hr />
+        <h4>Now think about the relationship between these variables:</h4>
+        <h5>
+          <span id="varX"></span> and <span id="varY"></span> of
+          <span id="unit"></span>
+        </h5>
+        <hr />
+        <button type="submit" class="btn btn-primary" id="presubmit">
+          Continue
+        </button>
+      </div>
+    </div>
+
+    <!-- <script src="/js/article.js"></script>
+<script src="/js/study.js"></script> -->
+    <script>
+      $.get("/api/data", function (data) {
+        var variables = data.vars;
+        var unit = data.unit;
+        $("#varX").text(variables[0]);
+        $("#varY").text(variables[1]);
+        $("#unit").text(unit);
+        $("#varNumber").text(data.varNumber);
+      });
+      $("#presubmit").click(function (event) {
+        event.preventDefault();
+        window.location.assign("/study");
+      });
+    </script>
+  </body>
+</html>

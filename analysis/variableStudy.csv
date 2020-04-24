@@ -1,0 +1,3001 @@
+,belief,certainty,uncertainty,user,vars
+0,0.0041844132158774805,6,0.0,BzIV8Vpd,"Height
+College GPA"
+1,-0.4377634793748022,5,0.6384801303939409,BzIV8Vpd,"Number of pedestrians
+No. Violent crimes"
+2,1.0,7,0.0,BzIV8Vpd,"Number traffic violations
+Car insurance premium"
+3,-0.5366606066652162,6,0.6679825847579539,BzIV8Vpd,"Immigrant population
+Crime rate"
+4,1.0,7,0.0,BzIV8Vpd,"Homeless population
+Uninsured population"
+5,0.28478129658698714,4,0.3980827374979654,BzIV8Vpd,"Yearly meat consumption
+Yearly carbon emissions"
+6,0.42458980411255487,6,0.9995297276980204,BzIV8Vpd,"Percent body fat
+Red blood cell count"
+7,1.0,7,0.1412611358174809,BzIV8Vpd,"Crime severity
+Prison sentence duration"
+8,0.6976854732738882,7,0.49804625428334925,BzIV8Vpd,"Median income
+Number of grocery stores"
+9,0.690882855275841,7,0.3569578864736831,BzIV8Vpd,"Per capita gun ownership
+Shooting-related deaths"
+10,0.7688689808668969,7,0.4622620382662057,BzIV8Vpd,"Parental income
+Children's SAT scores"
+11,0.014146770585796498,3,1.712315315209855,BzIV8Vpd,"Avg. hours on social media
+Depression severity"
+12,0.5654428926766277,7,0.7907713311480122,BzIV8Vpd,"Daily caloric intake
+Body weight"
+13,0.048395867196791675,1,0.5086404138850242,BzIV8Vpd,"White blood cell count
+IQ"
+14,-0.4306817406066665,7,1.1386365187866672,BzIV8Vpd,"Avg. hours on social media
+Avg. hours of sleep"
+15,-1.0,6,0.11809045108322835,BzIV8Vpd,"Hours of TV watched in a month
+Number of books read in a month"
+16,0.022466702716075426,1,1.0019416237127723,BzIV8Vpd,"Number of movies attended
+Amount red meat eaten"
+17,0.2875990465915428,3,0.43626411766404827,BzIV8Vpd,"Number of religious population
+racial diversity"
+18,0.5731851382386213,6,0.8536297235227577,BzIV8Vpd,"Years of education
+Income"
+19,-0.5257612979566302,4,0.9099190641638581,BzIV8Vpd,"Homeless population
+Avg. education attainment"
+20,-0.8706871958307707,6,0.2586256083384586,BzIV8Vpd,"Immigrant population
+Number of Domestic violence incidents"
+21,1.0,7,0.09987650355623079,BzIV8Vpd,"Annual carbon emissions
+Global temperature increase"
+22,0.025844286979410214,7,0.5297216183492746,BzIV8Vpd,"College GPA
+Post-college income"
+23,-0.01518456324161721,4,0.7132609254192552,BzIV8Vpd,"Minimum wage
+Unemployment rate"
+24,0.4032519168494537,4,0.5849170823340801,BzIV8Vpd,"SAT score
+College GPA"
+25,0.330842763000015,3,0.6903405325894183,BzIV8Vpd,"IQ
+Income"
+26,-1.0,7,0.08682311437493606,BzIV8Vpd,"Amount of rainfall
+Number of sunny days"
+27,0.6638961664842775,6,0.521750151095425,BzIV8Vpd,"Proportion of residents in poverty
+Crime rate"
+28,0.5018775028026949,6,0.6161062435585964,BzIV8Vpd,"Hours playing video games
+Aggression"
+29,0.01980469649349681,1,0.4748249671368407,BzIV8Vpd,"Daily calcium intake
+Avg. resting pulse"
+30,-0.0005476298779449884,7,0.0332748967984407,xiaBpKpY,"Height
+College GPA"
+31,0.35982272301337415,3,0.49369756299680345,xiaBpKpY,"College GPA
+Post-college income"
+32,0.0077352605110889705,7,0.1318523420442057,xiaBpKpY,"Number of movies attended
+Amount red meat eaten"
+33,0.007785713463807298,5,0.13054806436367355,xiaBpKpY,"White blood cell count
+IQ"
+34,1.0,6,0.15595603452328843,xiaBpKpY,"Homeless population
+Uninsured population"
+35,0.7405346919301881,3,0.6041769051773951,xiaBpKpY,"Median income
+Number of grocery stores"
+36,0.5067623496089393,1,2.0,xiaBpKpY,"Avg. hours on social media
+Depression severity"
+37,0.20107688754339903,3,0.4461807097873825,xiaBpKpY,"Per capita gun ownership
+Shooting-related deaths"
+38,0.4420734630850136,5,0.676012893860003,xiaBpKpY,"Number of religious population
+racial diversity"
+39,0.9069034910559859,3,0.3787491078127485,xiaBpKpY,"Yearly meat consumption
+Yearly carbon emissions"
+40,0.019684429506286794,5,0.20441731268921015,xiaBpKpY,"Immigrant population
+Crime rate"
+41,0.43985786800548565,5,0.4388356096555335,xiaBpKpY,"SAT score
+College GPA"
+42,0.01568074307194567,2,0.8317458775340154,xiaBpKpY,"Number of pedestrians
+No. Violent crimes"
+43,0.26183891087202604,6,0.5968647143371342,xiaBpKpY,"Proportion of residents in poverty
+Crime rate"
+44,-0.8500034335063389,3,0.5469010498842446,xiaBpKpY,"Minimum wage
+Unemployment rate"
+45,1.0,7,0.09364091434235267,xiaBpKpY,"Crime severity
+Prison sentence duration"
+46,1.0,7,0.11222394818412651,xiaBpKpY,"Annual carbon emissions
+Global temperature increase"
+47,-1.0,6,0.3852990297791261,xiaBpKpY,"Avg. hours on social media
+Avg. hours of sleep"
+48,0.16901421632093316,5,0.44336677783852774,xiaBpKpY,"Parental income
+Children's SAT scores"
+49,-1.0,6,0.1715707050333204,xiaBpKpY,"Hours of TV watched in a month
+Number of books read in a month"
+50,1.0,7,0.17317881101736687,xiaBpKpY,"IQ
+Income"
+51,0.3961169353859415,1,1.2324878500800356,xiaBpKpY,"Daily calcium intake
+Avg. resting pulse"
+52,-1.0,6,0.32788699192505844,xiaBpKpY,"Homeless population
+Avg. education attainment"
+53,0.00788861990602685,1,2.0,xiaBpKpY,"Immigrant population
+Number of Domestic violence incidents"
+54,0.00799428304815164,1,1.9035605077634334,xiaBpKpY,"Percent body fat
+Red blood cell count"
+55,1.0,7,0.0,xiaBpKpY,"Number traffic violations
+Car insurance premium"
+56,1.0,7,0.13212054987640043,xiaBpKpY,"Years of education
+Income"
+57,0.36731954416908463,3,0.5838815875261176,xiaBpKpY,"Hours playing video games
+Aggression"
+58,0.6876877552570375,6,0.491414946912041,xiaBpKpY,"Daily caloric intake
+Body weight"
+59,-0.8619280974024899,7,0.11700338636089969,xiaBpKpY,"Amount of rainfall
+Number of sunny days"
+60,0.13687419029539316,5,0.39832007130059016,SB7GmomK,"Avg. hours on social media
+Avg. hours of sleep"
+61,0.4654334959171522,4,0.42719431148853104,SB7GmomK,"Median income
+Number of grocery stores"
+62,0.45443808730194823,5,0.3979103105667956,SB7GmomK,"Hours playing video games
+Aggression"
+63,0.36609334409312644,2,0.7773373639522922,SB7GmomK,"Parental income
+Children's SAT scores"
+64,0.8441692183273763,5,0.27683076592411915,SB7GmomK,"IQ
+Income"
+65,1.0,6,0.05180602803084722,SB7GmomK,"Proportion of residents in poverty
+Crime rate"
+66,0.5747064599210627,6,0.2779265133871198,SB7GmomK,"Years of education
+Income"
+67,-0.6617813984689818,4,0.4534009096457603,SB7GmomK,"Number traffic violations
+Car insurance premium"
+68,0.43465655145095283,5,0.15172481707103835,SB7GmomK,"Number of pedestrians
+No. Violent crimes"
+69,0.41971873288087624,4,0.3332429499406284,SB7GmomK,"Immigrant population
+Crime rate"
+70,0.254200148480187,5,0.1934738093537487,SB7GmomK,"Yearly meat consumption
+Yearly carbon emissions"
+71,0.37391031301332944,5,0.2036510752248788,SB7GmomK,"Homeless population
+Avg. education attainment"
+72,0.23197928450650784,4,0.3327715973114058,SB7GmomK,"Per capita gun ownership
+Shooting-related deaths"
+73,-0.15634683766457874,5,0.11124514362840188,SB7GmomK,"Immigrant population
+Number of Domestic violence incidents"
+74,0.8095669984408298,6,0.293986295714906,SB7GmomK,"Annual carbon emissions
+Global temperature increase"
+75,-0.05390339906513558,3,0.2928495664595164,SB7GmomK,"Height
+College GPA"
+76,-0.2559549629490858,4,0.3302259737723298,SB7GmomK,"Percent body fat
+Red blood cell count"
+77,-1.0,5,0.06394000239416253,SB7GmomK,"Hours of TV watched in a month
+Number of books read in a month"
+78,0.385366203901615,6,0.43755309863529757,SB7GmomK,"Number of religious population
+racial diversity"
+79,0.15773109124227291,2,0.4878200963613353,SB7GmomK,"Number of movies attended
+Amount red meat eaten"
+80,1.0,6,0.03982947961774874,SB7GmomK,"Crime severity
+Prison sentence duration"
+81,0.4162733855722851,4,0.2262750538137399,SB7GmomK,"Minimum wage
+Unemployment rate"
+82,0.49368374163161377,5,0.2922581887974056,SB7GmomK,"College GPA
+Post-college income"
+83,-1.0,5,0.06322113733341239,SB7GmomK,"Daily caloric intake
+Body weight"
+84,0.41515448966193347,5,0.39227989933242435,SB7GmomK,"Daily calcium intake
+Avg. resting pulse"
+85,-0.4319366455490767,5,0.16983343548363883,SB7GmomK,"Homeless population
+Uninsured population"
+86,0.5658586510279304,5,0.25652117176232303,SB7GmomK,"Avg. hours on social media
+Depression severity"
+87,0.5164494685552721,5,0.119550571433507,SB7GmomK,"Amount of rainfall
+Number of sunny days"
+88,0.5927851086908953,6,0.22597281529708146,SB7GmomK,"SAT score
+College GPA"
+89,0.01314728390679587,1,0.5462336218357156,SB7GmomK,"White blood cell count
+IQ"
+90,0.4270916532315927,6,0.43474047147114714,GkfkjEuu,"IQ
+Income"
+91,0.12889778345842107,5,0.16946987632538835,GkfkjEuu,"Immigrant population
+Crime rate"
+92,0.19778562354297513,3,0.23232602937499425,GkfkjEuu,"Number traffic violations
+Car insurance premium"
+93,-0.014489542642260711,6,0.18982027010534197,GkfkjEuu,"Height
+College GPA"
+94,0.8703298502176013,6,0.2593402995647971,GkfkjEuu,"SAT score
+College GPA"
+95,0.49999870477635366,5,0.3825129440498616,GkfkjEuu,"Per capita gun ownership
+Shooting-related deaths"
+96,0.8481030150057136,6,0.30379396998857255,GkfkjEuu,"Crime severity
+Prison sentence duration"
+97,0.07423090394933252,4,0.2834831952882501,GkfkjEuu,"Percent body fat
+Red blood cell count"
+98,0.8594753227069389,6,0.2810493545861221,GkfkjEuu,"Daily caloric intake
+Body weight"
+99,0.47908988982565837,5,0.5368721669306433,GkfkjEuu,"Parental income
+Children's SAT scores"
+100,0.012914621200597498,4,0.27000884642423223,GkfkjEuu,"Number of religious population
+racial diversity"
+101,0.27692688201508475,5,0.483822984767432,GkfkjEuu,"Avg. hours on social media
+Depression severity"
+102,0.7424464339818362,6,0.5151071320363276,GkfkjEuu,"Homeless population
+Uninsured population"
+103,0.7383891355437922,6,0.5232217289124157,GkfkjEuu,"Homeless population
+Avg. education attainment"
+104,0.028131811043726307,4,0.43107858194665694,GkfkjEuu,"Immigrant population
+Number of Domestic violence incidents"
+105,-0.009425471193446222,4,0.35884912795210305,GkfkjEuu,"Daily calcium intake
+Avg. resting pulse"
+106,0.15400187683307354,4,0.3233135052357794,GkfkjEuu,"Median income
+Number of grocery stores"
+107,0.35877077189594586,6,0.36007429201609487,GkfkjEuu,"Years of education
+Income"
+108,-0.47538944810050765,5,0.4657005615514995,GkfkjEuu,"Minimum wage
+Unemployment rate"
+109,-0.3553737404210687,5,0.46692734435367567,GkfkjEuu,"Hours of TV watched in a month
+Number of books read in a month"
+110,-0.033486020759770196,5,0.540848875718583,GkfkjEuu,"Number of movies attended
+Amount red meat eaten"
+111,0.23195211813539474,6,0.47306990049954595,GkfkjEuu,"Annual carbon emissions
+Global temperature increase"
+112,-0.3355937398806392,5,0.55780052777255,GkfkjEuu,"Avg. hours on social media
+Avg. hours of sleep"
+113,0.0028799786835267405,5,0.26574055882551745,GkfkjEuu,"White blood cell count
+IQ"
+114,0.45657599152719897,5,0.47709187317428126,GkfkjEuu,"College GPA
+Post-college income"
+115,0.26659778768904685,5,0.6884470539811371,GkfkjEuu,"Yearly meat consumption
+Yearly carbon emissions"
+116,0.031506324265790475,5,0.45945758427782213,GkfkjEuu,"Number of pedestrians
+No. Violent crimes"
+117,0.5628440709883546,6,0.40441812010934264,GkfkjEuu,"Amount of rainfall
+Number of sunny days"
+118,0.3999325679842691,5,0.29222291762457253,GkfkjEuu,"Proportion of residents in poverty
+Crime rate"
+119,-0.4118605334089054,6,0.5896596310194258,GkfkjEuu,"Hours playing video games
+Aggression"
+120,1.0,7,0.2982324745655609,Ms0M2ZcZ,"Years of education
+Income"
+121,0.02673410098864415,6,0.514114573957545,Ms0M2ZcZ,"Height
+College GPA"
+122,1.0,7,0.26951155316539577,Ms0M2ZcZ,"Crime severity
+Prison sentence duration"
+123,1.0,7,0.0,Ms0M2ZcZ,"Annual carbon emissions
+Global temperature increase"
+124,0.07593231609211104,7,0.3249347256405715,Ms0M2ZcZ,"White blood cell count
+IQ"
+125,0.42193142685671603,7,0.665296273782789,Ms0M2ZcZ,"Median income
+Number of grocery stores"
+126,0.13091958546818483,5,0.5077097289824437,Ms0M2ZcZ,"Hours playing video games
+Aggression"
+127,1.0,7,0.3632060349182553,Ms0M2ZcZ,"Daily caloric intake
+Body weight"
+128,-1.0,7,0.4919826031250709,Ms0M2ZcZ,"Amount of rainfall
+Number of sunny days"
+129,1.0,7,0.25118551701949254,Ms0M2ZcZ,"Number traffic violations
+Car insurance premium"
+130,0.781985111011785,7,0.43602977797643017,Ms0M2ZcZ,"Yearly meat consumption
+Yearly carbon emissions"
+131,-1.0,7,0.5970145748107165,Ms0M2ZcZ,"Hours of TV watched in a month
+Number of books read in a month"
+132,1.0,5,0.5966199978900977,Ms0M2ZcZ,"Number of movies attended
+Amount red meat eaten"
+133,0.12276517914290164,4,0.8942198698941488,Ms0M2ZcZ,"Avg. hours on social media
+Avg. hours of sleep"
+134,1.0,4,0.41030550900998275,Ms0M2ZcZ,"Immigrant population
+Number of Domestic violence incidents"
+135,0.37486355783096714,4,1.2502728843380653,Ms0M2ZcZ,"Proportion of residents in poverty
+Crime rate"
+136,0.8511519307668765,4,0.5662707021158941,Ms0M2ZcZ,"Percent body fat
+Red blood cell count"
+137,1.0,4,0.06802498314917726,Ms0M2ZcZ,"IQ
+Income"
+138,0.4695716536874077,4,0.9616933767126847,Ms0M2ZcZ,"Daily calcium intake
+Avg. resting pulse"
+139,1.0,4,0.0,Ms0M2ZcZ,"Number of religious population
+racial diversity"
+140,0.4380954336732903,6,0.567058695390763,Ms0M2ZcZ,"Parental income
+Children's SAT scores"
+141,1.0,5,0.2016477625298143,Ms0M2ZcZ,"Homeless population
+Avg. education attainment"
+142,0.687976600328704,4,0.5640398832774367,Ms0M2ZcZ,"Homeless population
+Uninsured population"
+143,0.6715827255820399,4,1.4161880445526482,Ms0M2ZcZ,"Per capita gun ownership
+Shooting-related deaths"
+144,0.38128536802485646,4,1.4241847375363745,Ms0M2ZcZ,"Minimum wage
+Unemployment rate"
+145,1.0,4,0.20988787973809053,Ms0M2ZcZ,"Number of pedestrians
+No. Violent crimes"
+146,0.44692315260601245,6,1.106153694787975,Ms0M2ZcZ,"Immigrant population
+Crime rate"
+147,1.0,7,0.05696185553557376,Ms0M2ZcZ,"College GPA
+Post-college income"
+148,0.7235284736791447,6,0.5755859021802652,Ms0M2ZcZ,"Avg. hours on social media
+Depression severity"
+149,1.0,7,0.45209986390285173,Ms0M2ZcZ,"SAT score
+College GPA"
+150,-0.47022583305178994,6,0.3872138558759626,NoglGpV5,"Amount of rainfall
+Number of sunny days"
+151,0.9206699398311913,5,0.3393913539211906,NoglGpV5,"Daily caloric intake
+Body weight"
+152,-0.5619649080588616,5,0.5675453362720078,NoglGpV5,"Avg. hours on social media
+Avg. hours of sleep"
+153,0.25275377722743997,4,0.6923516809885548,NoglGpV5,"Annual carbon emissions
+Global temperature increase"
+154,0.7843279440096675,5,0.3921116920496943,NoglGpV5,"Minimum wage
+Unemployment rate"
+155,0.04850313073694901,6,0.48366952238656596,NoglGpV5,"Number of movies attended
+Amount red meat eaten"
+156,0.7612465979539005,6,0.49820202229593535,NoglGpV5,"Avg. hours on social media
+Depression severity"
+157,0.51210085422809,3,0.5377713479925224,NoglGpV5,"Homeless population
+Uninsured population"
+158,0.580575160503171,5,0.665549871690142,NoglGpV5,"Median income
+Number of grocery stores"
+159,0.8438268856669462,6,0.3942695290878644,NoglGpV5,"Number traffic violations
+Car insurance premium"
+160,-0.6597618074283393,4,0.7400837755351968,NoglGpV5,"Homeless population
+Avg. education attainment"
+161,-0.009539127614098641,3,0.3821696044162238,NoglGpV5,"Number of pedestrians
+No. Violent crimes"
+162,0.015112685908113654,3,0.49063160167746656,NoglGpV5,"Hours playing video games
+Aggression"
+163,-0.931638472466644,4,0.6230641818114517,NoglGpV5,"Per capita gun ownership
+Shooting-related deaths"
+164,0.4003658297544417,3,0.4950974560488639,NoglGpV5,"Immigrant population
+Crime rate"
+165,0.43173785053949976,4,0.4150425183329116,NoglGpV5,"Crime severity
+Prison sentence duration"
+166,0.7549830047140449,6,0.460769635622849,NoglGpV5,"Proportion of residents in poverty
+Crime rate"
+167,0.8589925163547478,5,0.1779353910033834,NoglGpV5,"Parental income
+Children's SAT scores"
+168,-0.2881716672183204,4,0.7202486361515668,NoglGpV5,"Daily calcium intake
+Avg. resting pulse"
+169,0.6233831530197622,5,0.7532336939604756,NoglGpV5,"Years of education
+Income"
+170,0.35682464771284406,4,0.8132422197162921,NoglGpV5,"Height
+College GPA"
+171,-0.4570443008803187,4,0.5261304843745269,NoglGpV5,"Percent body fat
+Red blood cell count"
+172,0.006828312271032866,3,0.7621669461853955,NoglGpV5,"Immigrant population
+Number of Domestic violence incidents"
+173,0.09752227565008087,5,0.3440234481696543,NoglGpV5,"College GPA
+Post-college income"
+174,0.11317950197206006,2,0.6566211809539646,NoglGpV5,"White blood cell count
+IQ"
+175,0.33254190357988467,4,0.4700392558596074,NoglGpV5,"IQ
+Income"
+176,-0.509450109411574,5,0.615144369140143,NoglGpV5,"Hours of TV watched in a month
+Number of books read in a month"
+177,0.15371287333668127,2,0.8051145506337141,NoglGpV5,"Number of religious population
+racial diversity"
+178,0.13921359499341568,5,0.6979088360827868,NoglGpV5,"SAT score
+College GPA"
+179,0.6447957897772645,5,0.4137584356943649,NoglGpV5,"Yearly meat consumption
+Yearly carbon emissions"
+180,0.9394896789142599,6,0.4934988778313689,ojuRoQpU,"SAT score
+College GPA"
+181,0.6849766492216696,7,0.20957772453238932,ojuRoQpU,"Homeless population
+Uninsured population"
+182,-1.0,7,0.18228229743675217,ojuRoQpU,"Immigrant population
+Crime rate"
+183,-0.03514955637875672,7,0.33759399155414194,ojuRoQpU,"Immigrant population
+Number of Domestic violence incidents"
+184,0.757234058672213,6,0.48873566652253597,ojuRoQpU,"Proportion of residents in poverty
+Crime rate"
+185,0.9065594401557171,7,0.2128830144221896,ojuRoQpU,"Hours of TV watched in a month
+Number of books read in a month"
+186,0.04844394746261482,7,0.22026751657667587,ojuRoQpU,"Height
+College GPA"
+187,0.014808821241352188,7,0.2594486752079175,ojuRoQpU,"Yearly meat consumption
+Yearly carbon emissions"
+188,0.06152641898701061,7,0.25195116952525703,ojuRoQpU,"Number of religious population
+racial diversity"
+189,0.5504795278931542,7,0.2815392602197837,ojuRoQpU,"Parental income
+Children's SAT scores"
+190,0.7802450217473771,7,0.48300040254543997,ojuRoQpU,"Per capita gun ownership
+Shooting-related deaths"
+191,0.27114731484037824,6,0.37634671488915195,ojuRoQpU,"Number of movies attended
+Amount red meat eaten"
+192,0.6109834974659845,6,0.3539389517880924,ojuRoQpU,"Avg. hours on social media
+Avg. hours of sleep"
+193,-0.3075730936182848,7,0.3285466169150825,ojuRoQpU,"Annual carbon emissions
+Global temperature increase"
+194,0.9376529768227835,7,0.136510541537477,ojuRoQpU,"Years of education
+Income"
+195,-0.17108080772279854,7,0.4266681994755903,ojuRoQpU,"Percent body fat
+Red blood cell count"
+196,-0.715889176629483,7,0.5749823562382994,ojuRoQpU,"Minimum wage
+Unemployment rate"
+197,0.9284072518769217,7,0.2030400272659998,ojuRoQpU,"Daily caloric intake
+Body weight"
+198,0.845000231686478,7,0.3027300868990144,ojuRoQpU,"Number traffic violations
+Car insurance premium"
+199,0.7869599886068765,7,0.40766909977894183,ojuRoQpU,"Amount of rainfall
+Number of sunny days"
+200,0.7641848544453833,7,0.3771094088195557,ojuRoQpU,"Homeless population
+Avg. education attainment"
+201,0.5664672248065876,7,0.5670944367382191,ojuRoQpU,"Median income
+Number of grocery stores"
+202,0.2365952645770366,7,0.2485400033714451,ojuRoQpU,"College GPA
+Post-college income"
+203,-0.03610866126790868,7,0.3541568345778061,ojuRoQpU,"IQ
+Income"
+204,0.04123380317248171,7,0.2410692306394655,ojuRoQpU,"White blood cell count
+IQ"
+205,0.06499856651867408,7,0.48327993967760946,ojuRoQpU,"Avg. hours on social media
+Depression severity"
+206,-0.9513503661543867,7,0.09729926769122632,ojuRoQpU,"Crime severity
+Prison sentence duration"
+207,0.1628605584764986,5,0.224209050819562,ojuRoQpU,"Hours playing video games
+Aggression"
+208,0.14545449959077028,6,0.22955992925067603,ojuRoQpU,"Daily calcium intake
+Avg. resting pulse"
+209,0.07415998360258658,7,0.8887047391205065,ojuRoQpU,"Number of pedestrians
+No. Violent crimes"
+210,0.42860641226715823,6,0.6295632181085704,nzTQIkJp,"Median income
+Number of grocery stores"
+211,0.8389342646424989,6,0.5933769272316232,nzTQIkJp,"Years of education
+Income"
+212,-0.7233468533592864,7,0.3723608758753234,nzTQIkJp,"Homeless population
+Avg. education attainment"
+213,0.25142477460108714,6,0.20639004424823404,nzTQIkJp,"Avg. hours on social media
+Depression severity"
+214,0.900092922258747,7,0.08626541468122584,nzTQIkJp,"Number traffic violations
+Car insurance premium"
+215,0.803809867989429,6,0.9520685880866269,nzTQIkJp,"Per capita gun ownership
+Shooting-related deaths"
+216,-0.3805624155596137,7,0.2946298302014485,nzTQIkJp,"Amount of rainfall
+Number of sunny days"
+217,0.10007285295362434,6,0.882824829222496,nzTQIkJp,"Height
+College GPA"
+218,0.5441759273635831,5,1.0030539833211298,nzTQIkJp,"Daily caloric intake
+Body weight"
+219,-0.011478405016225546,6,0.9104105522057593,nzTQIkJp,"Immigrant population
+Number of Domestic violence incidents"
+220,-0.02969859217937354,4,0.6100231078230751,nzTQIkJp,"Hours playing video games
+Aggression"
+221,-0.27495518987854495,2,0.6719683213522756,nzTQIkJp,"Minimum wage
+Unemployment rate"
+222,-0.0303296531463752,5,0.9856886584269351,nzTQIkJp,"Number of pedestrians
+No. Violent crimes"
+223,-0.48529063812112905,2,0.5915163589223269,nzTQIkJp,"White blood cell count
+IQ"
+224,0.41167901990738054,1,0.303070980833841,nzTQIkJp,"Yearly meat consumption
+Yearly carbon emissions"
+225,0.29900880614758085,6,0.2201207579934863,nzTQIkJp,"Number of movies attended
+Amount red meat eaten"
+226,0.4783424107630383,6,0.7192283440319676,nzTQIkJp,"Proportion of residents in poverty
+Crime rate"
+227,-0.4218298264461379,7,0.5560268983051564,nzTQIkJp,"Hours of TV watched in a month
+Number of books read in a month"
+228,-0.47712116264793986,2,0.5807244338071689,nzTQIkJp,"Number of religious population
+racial diversity"
+229,-0.07529699908368959,1,1.0074650606850324,nzTQIkJp,"Daily calcium intake
+Avg. resting pulse"
+230,-0.4122518731173572,5,0.38755679583143454,nzTQIkJp,"Immigrant population
+Crime rate"
+231,0.505590013690653,6,0.9330652486970517,nzTQIkJp,"IQ
+Income"
+232,-0.4949886061777003,1,0.7206528920736299,nzTQIkJp,"Percent body fat
+Red blood cell count"
+233,0.5468349953746705,6,0.4913002111298159,nzTQIkJp,"College GPA
+Post-college income"
+234,0.2916638561149414,6,0.3719509419232183,nzTQIkJp,"SAT score
+College GPA"
+235,0.4545317338964152,6,0.1011680169077549,nzTQIkJp,"Annual carbon emissions
+Global temperature increase"
+236,-0.4143850703541632,5,0.4998825975540997,nzTQIkJp,"Avg. hours on social media
+Avg. hours of sleep"
+237,0.4960214800095608,7,0.4607526316435151,nzTQIkJp,"Parental income
+Children's SAT scores"
+238,0.36382311125947875,6,0.27510968413013304,nzTQIkJp,"Crime severity
+Prison sentence duration"
+239,0.4235789466441642,7,0.32026685852016157,nzTQIkJp,"Homeless population
+Uninsured population"
+240,0.847388665419289,7,0.16572874094201584,WcpZyNIn,"Homeless population
+Uninsured population"
+241,1.0,6,0.0,WcpZyNIn,"Hours of TV watched in a month
+Number of books read in a month"
+242,0.6002331988376166,7,0.036654888896836324,WcpZyNIn,"Number of pedestrians
+No. Violent crimes"
+243,1.0,7,0.0038176326616223832,WcpZyNIn,"Per capita gun ownership
+Shooting-related deaths"
+244,-0.7708932839260576,6,0.044009437265104756,WcpZyNIn,"Immigrant population
+Number of Domestic violence incidents"
+245,-1.0,4,0.0,WcpZyNIn,"Number of movies attended
+Amount red meat eaten"
+246,-0.7757824820666914,5,0.008662832802304399,WcpZyNIn,"Daily calcium intake
+Avg. resting pulse"
+247,0.91517878900922,6,0.010981661802516696,WcpZyNIn,"Years of education
+Income"
+248,-0.9712486613029307,7,0.020725374134359154,WcpZyNIn,"College GPA
+Post-college income"
+249,0.8323320040047393,5,0.006033550255302167,WcpZyNIn,"Percent body fat
+Red blood cell count"
+250,0.9359456322330177,7,0.00978679703144647,WcpZyNIn,"Yearly meat consumption
+Yearly carbon emissions"
+251,0.5157982513024002,5,0.05482721523424505,WcpZyNIn,"Median income
+Number of grocery stores"
+252,0.7878183241675756,7,0.004736793313223853,WcpZyNIn,"Annual carbon emissions
+Global temperature increase"
+253,0.8633374660290731,6,0.027213195883161845,WcpZyNIn,"Daily caloric intake
+Body weight"
+254,-0.818420087903394,6,0.010528517273288962,WcpZyNIn,"Amount of rainfall
+Number of sunny days"
+255,0.7529675259165862,5,0.09169679325723701,WcpZyNIn,"Avg. hours on social media
+Depression severity"
+256,-0.9816696607965272,6,0.036660678406945424,WcpZyNIn,"Number of religious population
+racial diversity"
+257,-0.9510447137735047,7,0.0017424114128854473,WcpZyNIn,"Height
+College GPA"
+258,0.9809220890818198,7,0.025123742313814645,WcpZyNIn,"Homeless population
+Avg. education attainment"
+259,0.44592564647822375,5,0.07998315871561634,WcpZyNIn,"Parental income
+Children's SAT scores"
+260,0.21752113725862943,6,0.040160316826611586,WcpZyNIn,"IQ
+Income"
+261,0.9324685303111879,5,0.5714620854072832,WcpZyNIn,"Minimum wage
+Unemployment rate"
+262,1.0,6,0.0,WcpZyNIn,"Proportion of residents in poverty
+Crime rate"
+263,-0.9588476955580678,6,0.08133001804304607,WcpZyNIn,"White blood cell count
+IQ"
+264,0.6262578319309358,6,0.09521110901243834,WcpZyNIn,"SAT score
+College GPA"
+265,-0.6035118923822869,6,0.09079206512528049,WcpZyNIn,"Immigrant population
+Crime rate"
+266,0.881490633764975,7,0.06006711304360124,WcpZyNIn,"Number traffic violations
+Car insurance premium"
+267,0.638005353300747,5,0.1525471910206142,WcpZyNIn,"Avg. hours on social media
+Avg. hours of sleep"
+268,0.8090326383812907,5,0.6298424359598154,WcpZyNIn,"Crime severity
+Prison sentence duration"
+269,0.768107125699977,5,0.11075864319842044,WcpZyNIn,"Hours playing video games
+Aggression"
+270,-0.22230606149987636,1,1.5553878770002474,pLLXz6xG,"White blood cell count
+IQ"
+271,0.315042770539544,3,2.0,pLLXz6xG,"Immigrant population
+Number of Domestic violence incidents"
+272,0.36189289072654507,2,0.3822408741819896,pLLXz6xG,"Daily calcium intake
+Avg. resting pulse"
+273,0.9201429502246523,3,0.4481486843963154,pLLXz6xG,"Median income
+Number of grocery stores"
+274,0.1373440699992794,2,1.0071820223754309,pLLXz6xG,"Number of movies attended
+Amount red meat eaten"
+275,0.9598141386473067,3,0.467443752949251,pLLXz6xG,"Immigrant population
+Crime rate"
+276,-0.9115808613947167,3,0.9934246064819794,pLLXz6xG,"Minimum wage
+Unemployment rate"
+277,0.9630016346704986,3,0.4628850452797726,pLLXz6xG,"Number of religious population
+racial diversity"
+278,-1.0,3,0.3318317514545801,pLLXz6xG,"Yearly meat consumption
+Yearly carbon emissions"
+279,0.9306332069440642,3,0.4804294195715879,pLLXz6xG,"Number of pedestrians
+No. Violent crimes"
+280,0.8413136164660513,3,0.43047344666722687,pLLXz6xG,"Proportion of residents in poverty
+Crime rate"
+281,0.9690858373107842,3,0.23328076773278017,pLLXz6xG,"Number traffic violations
+Car insurance premium"
+282,-1.0,3,0.20882967660298513,pLLXz6xG,"Hours playing video games
+Aggression"
+283,0.9740714869221161,3,0.2800168469369566,pLLXz6xG,"Daily caloric intake
+Body weight"
+284,0.38389152293916884,3,0.8872612157105946,pLLXz6xG,"Per capita gun ownership
+Shooting-related deaths"
+285,1.0,3,0.390029949694642,pLLXz6xG,"Annual carbon emissions
+Global temperature increase"
+286,-1.0,3,0.17312720312053353,pLLXz6xG,"Avg. hours on social media
+Depression severity"
+287,-0.9403066411325318,3,0.4447028823432011,pLLXz6xG,"Homeless population
+Avg. education attainment"
+288,-1.0,3,0.1311125453921571,pLLXz6xG,"Amount of rainfall
+Number of sunny days"
+289,1.0,3,0.244747161456486,pLLXz6xG,"Homeless population
+Uninsured population"
+290,-1.0,3,0.3306576312449989,pLLXz6xG,"Hours of TV watched in a month
+Number of books read in a month"
+291,-1.0,3,0.23255129350474935,pLLXz6xG,"Avg. hours on social media
+Avg. hours of sleep"
+292,-0.19532849523142093,3,1.6093430095371581,pLLXz6xG,"College GPA
+Post-college income"
+293,0.005937303176752451,2,1.988125393646495,pLLXz6xG,"Parental income
+Children's SAT scores"
+294,-0.511254101503458,2,1.7008371479678999,pLLXz6xG,"Height
+College GPA"
+295,0.5837724701962859,3,0.49700112733434687,pLLXz6xG,"Years of education
+Income"
+296,1.0,3,0.0,pLLXz6xG,"Crime severity
+Prison sentence duration"
+297,0.9143927673496743,3,1.403317430856457,pLLXz6xG,"IQ
+Income"
+298,0.692691459111928,3,0.8427308641003899,pLLXz6xG,"SAT score
+College GPA"
+299,0.8087572783613957,3,0.582197523254701,pLLXz6xG,"Percent body fat
+Red blood cell count"
+300,0.0,7,0.16642234989486054,eXIM50jQ,"Number of movies attended
+Amount red meat eaten"
+301,0.9565368125231342,7,0.2067131682734371,eXIM50jQ,"Number traffic violations
+Car insurance premium"
+302,0.4491404515777848,6,0.2626795990793156,eXIM50jQ,"Avg. hours on social media
+Depression severity"
+303,0.34239032784208034,6,0.5351227785562727,eXIM50jQ,"College GPA
+Post-college income"
+304,0.5697311493772592,5,0.4606729669697469,eXIM50jQ,"Median income
+Number of grocery stores"
+305,0.7096659914218635,6,0.3348228822702639,eXIM50jQ,"Years of education
+Income"
+306,0.6692018022144832,3,0.6868275788759783,eXIM50jQ,"Percent body fat
+Red blood cell count"
+307,0.2396013224606226,5,0.579812521008725,eXIM50jQ,"Number of pedestrians
+No. Violent crimes"
+308,0.8377318303031422,6,0.1791756975928387,eXIM50jQ,"Crime severity
+Prison sentence duration"
+309,0.4045133220754855,5,0.4351518570627506,eXIM50jQ,"Hours playing video games
+Aggression"
+310,-0.01606367812440984,3,0.4927970945420235,eXIM50jQ,"Homeless population
+Avg. education attainment"
+311,1.0,6,0.21108843936645116,eXIM50jQ,"IQ
+Income"
+312,-0.013329683261358694,6,0.2777854087982774,eXIM50jQ,"Height
+College GPA"
+313,0.6781972746447682,3,0.7388222484989744,eXIM50jQ,"Annual carbon emissions
+Global temperature increase"
+314,0.08029967969867147,5,0.44729121277785294,eXIM50jQ,"Minimum wage
+Unemployment rate"
+315,0.1233129276896392,3,0.7399863529183996,eXIM50jQ,"Immigrant population
+Number of Domestic violence incidents"
+316,0.63847544066157,6,0.5636229254552689,eXIM50jQ,"Proportion of residents in poverty
+Crime rate"
+317,0.8420054179144492,6,0.40723777825713237,eXIM50jQ,"SAT score
+College GPA"
+318,-0.8529897383775127,6,0.29402052324497463,eXIM50jQ,"Hours of TV watched in a month
+Number of books read in a month"
+319,-0.500309472414793,6,0.41881535354015265,eXIM50jQ,"Amount of rainfall
+Number of sunny days"
+320,0.27932781456563904,5,0.43708627771242137,eXIM50jQ,"Immigrant population
+Crime rate"
+321,0.6945516367882716,6,0.40682912272454375,eXIM50jQ,"Homeless population
+Uninsured population"
+322,0.3022709519063793,2,0.6273764692445465,eXIM50jQ,"Number of religious population
+racial diversity"
+323,0.21374950903355994,5,1.005471303581721,eXIM50jQ,"Parental income
+Children's SAT scores"
+324,0.7460862489483902,6,0.5281214301577619,eXIM50jQ,"Daily caloric intake
+Body weight"
+325,0.15896875943370348,3,0.42897355665548575,eXIM50jQ,"Per capita gun ownership
+Shooting-related deaths"
+326,0.0,2,0.34379190551383226,eXIM50jQ,"White blood cell count
+IQ"
+327,0.10705701730588779,2,0.3620892005914489,eXIM50jQ,"Yearly meat consumption
+Yearly carbon emissions"
+328,-0.7920471138806611,6,0.5761866032248606,eXIM50jQ,"Avg. hours on social media
+Avg. hours of sleep"
+329,0.10048131427202689,2,0.22909451731127284,eXIM50jQ,"Daily calcium intake
+Avg. resting pulse"
+330,0.7362706100638181,2,0.44160648505677247,SJC0GMJP,"Number of religious population
+racial diversity"
+331,-0.36678632733889766,2,0.4390721559980506,SJC0GMJP,"Percent body fat
+Red blood cell count"
+332,0.9442009679968641,4,0.14050885642368893,SJC0GMJP,"Homeless population
+Uninsured population"
+333,0.07172889979360386,3,0.41029600658205356,SJC0GMJP,"Median income
+Number of grocery stores"
+334,0.7338637848451157,4,0.3010352314187754,SJC0GMJP,"SAT score
+College GPA"
+335,-0.8940852477617764,5,0.2118295044764471,SJC0GMJP,"Hours of TV watched in a month
+Number of books read in a month"
+336,-0.001591483841776764,3,0.16530074206352774,SJC0GMJP,"Daily calcium intake
+Avg. resting pulse"
+337,0.9228645846471655,5,0.13025783097279864,SJC0GMJP,"Per capita gun ownership
+Shooting-related deaths"
+338,-0.8354726408058171,4,0.14256455380191912,SJC0GMJP,"Avg. hours on social media
+Avg. hours of sleep"
+339,-0.024814107137551444,5,0.0,SJC0GMJP,"Immigrant population
+Number of Domestic violence incidents"
+340,-0.0031307832061049368,6,0.0,SJC0GMJP,"Height
+College GPA"
+341,0.4942190827836226,3,0.3232956956514592,SJC0GMJP,"Proportion of residents in poverty
+Crime rate"
+342,0.989454921408992,4,0.1072869062396744,SJC0GMJP,"Annual carbon emissions
+Global temperature increase"
+343,-0.007345232378731359,6,0.0,SJC0GMJP,"White blood cell count
+IQ"
+344,0.33257123495789287,3,0.4250148718754685,SJC0GMJP,"Avg. hours on social media
+Depression severity"
+345,0.7673126761892837,3,0.5253544054473129,SJC0GMJP,"Crime severity
+Prison sentence duration"
+346,-0.700364241325335,3,0.3163595147893319,SJC0GMJP,"Homeless population
+Avg. education attainment"
+347,-0.007345232378731359,5,0.0,SJC0GMJP,"Hours playing video games
+Aggression"
+348,-0.8905743558979871,3,0.21885128820402588,SJC0GMJP,"Minimum wage
+Unemployment rate"
+349,-0.013640775266640703,5,0.0,SJC0GMJP,"Immigrant population
+Crime rate"
+350,-1.0,4,0.07877263483955632,SJC0GMJP,"Amount of rainfall
+Number of sunny days"
+351,0.8780281823177984,5,0.28098968933517354,SJC0GMJP,"Daily caloric intake
+Body weight"
+352,0.8055000669121941,3,0.23392432316970657,SJC0GMJP,"Years of education
+Income"
+353,-0.019096384020942603,3,0.23732683487310324,SJC0GMJP,"Number of movies attended
+Amount red meat eaten"
+354,0.34067388168531454,4,0.3126949670376542,SJC0GMJP,"College GPA
+Post-college income"
+355,-0.003744659016347962,2,0.6007858431111708,SJC0GMJP,"Number of pedestrians
+No. Violent crimes"
+356,0.5353220436528545,3,0.5355211073382347,SJC0GMJP,"IQ
+Income"
+357,0.6508823122272913,5,0.2587208956188465,SJC0GMJP,"Yearly meat consumption
+Yearly carbon emissions"
+358,1.0,5,0.08259699321437242,SJC0GMJP,"Number traffic violations
+Car insurance premium"
+359,0.688724599633864,4,0.44440223442457216,SJC0GMJP,"Parental income
+Children's SAT scores"
+360,-0.016925702670273213,2,1.6577824934775314,7B4Uz9OS,"Height
+College GPA"
+361,0.8992579142097838,5,0.25256016411138504,7B4Uz9OS,"Proportion of residents in poverty
+Crime rate"
+362,0.9979968923249702,4,0.4331440067502563,7B4Uz9OS,"Homeless population
+Uninsured population"
+363,0.19004263527201104,3,0.7853431614083572,7B4Uz9OS,"Avg. hours on social media
+Depression severity"
+364,1.0,5,0.31753145966789087,7B4Uz9OS,"Annual carbon emissions
+Global temperature increase"
+365,0.09106312950463646,2,0.7252216329050081,7B4Uz9OS,"Median income
+Number of grocery stores"
+366,0.6723258447115268,5,0.13250000083279745,7B4Uz9OS,"Number traffic violations
+Car insurance premium"
+367,0.07425408858372351,4,1.3726643221726413,7B4Uz9OS,"SAT score
+College GPA"
+368,0.8550136043619287,4,0.8037903601905549,7B4Uz9OS,"Avg. hours on social media
+Avg. hours of sleep"
+369,0.0017775025052073623,4,0.7800734120462884,7B4Uz9OS,"White blood cell count
+IQ"
+370,0.9216753094946561,6,0.31304376456457583,7B4Uz9OS,"Amount of rainfall
+Number of sunny days"
+371,0.44958036089988185,5,0.3004741567241984,7B4Uz9OS,"Parental income
+Children's SAT scores"
+372,0.0017653693979076124,2,0.8163117988015742,7B4Uz9OS,"Immigrant population
+Crime rate"
+373,0.3450548664700912,4,0.9069282649916128,7B4Uz9OS,"Homeless population
+Avg. education attainment"
+374,-0.17455091252782667,2,0.37015792698076155,7B4Uz9OS,"Immigrant population
+Number of Domestic violence incidents"
+375,0.20551661556157286,4,0.5692264798720204,7B4Uz9OS,"Hours playing video games
+Aggression"
+376,0.7875565015955974,3,1.6160396715400571,7B4Uz9OS,"Years of education
+Income"
+377,0.45695603457854306,3,1.2939289518490973,7B4Uz9OS,"Number of pedestrians
+No. Violent crimes"
+378,-0.8187936568891252,4,0.5560991172018355,7B4Uz9OS,"Hours of TV watched in a month
+Number of books read in a month"
+379,0.978552644006935,5,0.3549164505591851,7B4Uz9OS,"Crime severity
+Prison sentence duration"
+380,-0.11926875554993327,3,1.236572507057249,7B4Uz9OS,"Per capita gun ownership
+Shooting-related deaths"
+381,0.96904484171327,5,0.3227239106232749,7B4Uz9OS,"Number of religious population
+racial diversity"
+382,0.4651184145479217,5,0.7849322323136145,7B4Uz9OS,"Daily caloric intake
+Body weight"
+383,0.1694492543763444,3,0.9095794045101635,7B4Uz9OS,"Yearly meat consumption
+Yearly carbon emissions"
+384,0.011222173331075114,2,1.8213074098845923,7B4Uz9OS,"Percent body fat
+Red blood cell count"
+385,0.1174764501620631,2,1.8964980635064472,7B4Uz9OS,"Minimum wage
+Unemployment rate"
+386,0.08098254216269218,3,1.2547246568025419,7B4Uz9OS,"IQ
+Income"
+387,-0.23213212711664072,2,1.3650087622096143,7B4Uz9OS,"Daily calcium intake
+Avg. resting pulse"
+388,0.13297551678992048,2,1.9671941263396477,7B4Uz9OS,"College GPA
+Post-college income"
+389,-0.25237660411120255,4,1.6822160566847648,7B4Uz9OS,"Number of movies attended
+Amount red meat eaten"
+390,0.931543513465307,4,1.430368377150848,abjCGwtg,"Hours playing video games
+Aggression"
+391,0.19443394223019905,3,0.8532911267360213,abjCGwtg,"Number of pedestrians
+No. Violent crimes"
+392,0.5114080304244728,5,1.7500519478945202,abjCGwtg,"Parental income
+Children's SAT scores"
+393,-0.1676746325921909,5,1.24874306104498,abjCGwtg,"Proportion of residents in poverty
+Crime rate"
+394,-0.26065301015365017,6,1.6199593269166,abjCGwtg,"SAT score
+College GPA"
+395,-0.606508292138106,2,1.4436083796768275,abjCGwtg,"Years of education
+Income"
+396,-0.28362804582310025,5,1.7277283264156862,abjCGwtg,"Number of religious population
+racial diversity"
+397,-0.9799967211854625,4,1.4131515471897609,abjCGwtg,"White blood cell count
+IQ"
+398,0.3802427811375906,4,1.681456572283148,abjCGwtg,"Crime severity
+Prison sentence duration"
+399,-1.0,3,1.249631038113267,abjCGwtg,"Yearly meat consumption
+Yearly carbon emissions"
+400,-0.5820526354704034,3,0.9796010108825857,abjCGwtg,"Hours of TV watched in a month
+Number of books read in a month"
+401,-0.2960791582750288,2,1.649319901581533,abjCGwtg,"Number traffic violations
+Car insurance premium"
+402,-0.6638591852933979,2,1.1932677498677078,abjCGwtg,"Immigrant population
+Number of Domestic violence incidents"
+403,-0.6690108038584011,3,0.9422890829991835,abjCGwtg,"Per capita gun ownership
+Shooting-related deaths"
+404,-0.7799913923016368,2,0.5057543773641244,abjCGwtg,"Homeless population
+Avg. education attainment"
+405,-0.7348277184968302,5,0.45571059665570623,abjCGwtg,"Annual carbon emissions
+Global temperature increase"
+406,-0.9982394405639148,3,0.2505120697714467,abjCGwtg,"Homeless population
+Uninsured population"
+407,0.6731474697803521,3,0.4808234533433695,abjCGwtg,"Minimum wage
+Unemployment rate"
+408,0.21658256016408384,3,0.5365486194564044,abjCGwtg,"College GPA
+Post-college income"
+409,-0.7114152705245191,3,0.6489886318346803,abjCGwtg,"Daily caloric intake
+Body weight"
+410,-0.26741522907617116,3,0.285018997828231,abjCGwtg,"Height
+College GPA"
+411,-0.3969473640277293,3,0.386317384656097,abjCGwtg,"Avg. hours on social media
+Avg. hours of sleep"
+412,-0.44551580207999514,2,0.8474614716842581,abjCGwtg,"Immigrant population
+Crime rate"
+413,0.9632269682933563,7,0.15179678183002854,abjCGwtg,"Avg. hours on social media
+Depression severity"
+414,0.15248954615534283,3,1.071346565527803,abjCGwtg,"Number of movies attended
+Amount red meat eaten"
+415,0.091194367690564,2,0.8719086554224631,abjCGwtg,"Amount of rainfall
+Number of sunny days"
+416,0.5871849724367435,5,0.7346463788026294,abjCGwtg,"Daily calcium intake
+Avg. resting pulse"
+417,0.690551176589866,5,0.958377288652531,abjCGwtg,"IQ
+Income"
+418,0.6855018613442576,5,0.9183642256614,abjCGwtg,"Median income
+Number of grocery stores"
+419,0.6199765894347491,4,0.34011058006501615,abjCGwtg,"Percent body fat
+Red blood cell count"
+420,0.8028023719029704,4,0.02909724378734424,AWYni1pt,"White blood cell count
+IQ"
+421,0.3596467998840487,3,0.04600305604486343,AWYni1pt,"Number of movies attended
+Amount red meat eaten"
+422,0.30747801681894393,4,1.2932202820823895,AWYni1pt,"Homeless population
+Avg. education attainment"
+423,0.12578480635120393,1,0.046308686083561534,AWYni1pt,"Immigrant population
+Number of Domestic violence incidents"
+424,-1.0,4,0.0,AWYni1pt,"Yearly meat consumption
+Yearly carbon emissions"
+425,-0.3621731141526816,4,0.06674576823091288,AWYni1pt,"Amount of rainfall
+Number of sunny days"
+426,-0.012548348839335477,5,2.0,AWYni1pt,"IQ
+Income"
+427,-0.17837055165486815,4,0.0,AWYni1pt,"Number of religious population
+racial diversity"
+428,-1.0,5,0.0,AWYni1pt,"Minimum wage
+Unemployment rate"
+429,0.004197878930452648,4,0.0,AWYni1pt,"Height
+College GPA"
+430,-1.0,6,0.0,AWYni1pt,"Percent body fat
+Red blood cell count"
+431,-1.0,4,0.0,AWYni1pt,"Per capita gun ownership
+Shooting-related deaths"
+432,-1.0,7,0.0,AWYni1pt,"Daily caloric intake
+Body weight"
+433,-0.14303260599682766,4,0.005787578578680452,AWYni1pt,"Immigrant population
+Crime rate"
+434,-0.579522653856922,4,0.0,AWYni1pt,"Median income
+Number of grocery stores"
+435,0.3019375774321822,4,0.0,AWYni1pt,"Hours playing video games
+Aggression"
+436,-0.39588944341202437,3,0.0,AWYni1pt,"Years of education
+Income"
+437,0.522646150441826,2,0.0,AWYni1pt,"Proportion of residents in poverty
+Crime rate"
+438,0.6976855786018574,6,0.0,AWYni1pt,"Number traffic violations
+Car insurance premium"
+439,0.1740747219932539,6,0.0,AWYni1pt,"Parental income
+Children's SAT scores"
+440,0.27578366413779576,4,0.0,AWYni1pt,"Avg. hours on social media
+Avg. hours of sleep"
+441,-0.4445481756230474,4,0.0,AWYni1pt,"College GPA
+Post-college income"
+442,1.0,4,0.0,AWYni1pt,"Daily calcium intake
+Avg. resting pulse"
+443,1.0,7,0.0,AWYni1pt,"Annual carbon emissions
+Global temperature increase"
+444,-0.5455325277948848,4,0.0,AWYni1pt,"Crime severity
+Prison sentence duration"
+445,-0.3104757984528179,4,0.5156619177567627,AWYni1pt,"Avg. hours on social media
+Depression severity"
+446,0.6692685001824894,4,1.6343700282121663,AWYni1pt,"Hours of TV watched in a month
+Number of books read in a month"
+447,1.0,4,0.4042829896326124,AWYni1pt,"Homeless population
+Uninsured population"
+448,-0.5040756300507401,7,0.0,AWYni1pt,"Number of pedestrians
+No. Violent crimes"
+449,0.41392383975769453,4,0.0,AWYni1pt,"SAT score
+College GPA"
+450,0.72616631762022,6,0.28308122276308634,1EUhzwpG,"IQ
+Income"
+451,0.7670164894408811,5,0.10057131937254704,1EUhzwpG,"Years of education
+Income"
+452,0.0,4,1.972728383777714,1EUhzwpG,"Parental income
+Children's SAT scores"
+453,0.8689045754705991,5,0.14473562079640678,1EUhzwpG,"Per capita gun ownership
+Shooting-related deaths"
+454,-0.8823383016407069,5,0.6058279017786035,1EUhzwpG,"Number of pedestrians
+No. Violent crimes"
+455,0.571730969597612,5,0.2778826599975872,1EUhzwpG,"Number traffic violations
+Car insurance premium"
+456,-0.6330113966165838,5,0.22740802000204652,1EUhzwpG,"Minimum wage
+Unemployment rate"
+457,0.7078918307210946,5,0.252039815101176,1EUhzwpG,"Hours playing video games
+Aggression"
+458,0.4016087424359831,5,0.6823242183999405,1EUhzwpG,"College GPA
+Post-college income"
+459,0.5019620830614928,3,0.31170109134697666,1EUhzwpG,"Daily calcium intake
+Avg. resting pulse"
+460,0.3844949958601749,5,0.46219351000943476,1EUhzwpG,"Number of religious population
+racial diversity"
+461,0.0,5,0.08686756948492685,1EUhzwpG,"Number of movies attended
+Amount red meat eaten"
+462,0.39532352355544487,5,0.546050668613556,1EUhzwpG,"Amount of rainfall
+Number of sunny days"
+463,0.7051307693877595,5,0.4599423406605492,1EUhzwpG,"Median income
+Number of grocery stores"
+464,-0.8756747951241428,5,0.5855368239404561,1EUhzwpG,"Homeless population
+Avg. education attainment"
+465,-0.9637695670763611,5,0.741304735438254,1EUhzwpG,"Height
+College GPA"
+466,0.9662897236629142,6,0.21852051298874509,1EUhzwpG,"Daily caloric intake
+Body weight"
+467,0.5099227626457443,5,0.75286577367195,1EUhzwpG,"Proportion of residents in poverty
+Crime rate"
+468,0.31896046800351896,4,0.8855366629788257,1EUhzwpG,"Immigrant population
+Crime rate"
+469,0.9351019397180342,7,0.1540017146399204,1EUhzwpG,"Annual carbon emissions
+Global temperature increase"
+470,0.0,5,0.11167510836662614,1EUhzwpG,"Immigrant population
+Number of Domestic violence incidents"
+471,1.0,5,0.16864056970471175,1EUhzwpG,"Avg. hours on social media
+Depression severity"
+472,0.5861269048068263,5,0.4583608282926521,1EUhzwpG,"SAT score
+College GPA"
+473,-0.8287939885400641,5,1.2119538474026135,1EUhzwpG,"Hours of TV watched in a month
+Number of books read in a month"
+474,1.0,6,0.15015316962803027,1EUhzwpG,"Crime severity
+Prison sentence duration"
+475,0.2618904540947111,5,1.2556118574617805,1EUhzwpG,"Yearly meat consumption
+Yearly carbon emissions"
+476,-0.45828747549242127,5,0.7452215585147062,1EUhzwpG,"Percent body fat
+Red blood cell count"
+477,0.012793937553588153,4,2.0,1EUhzwpG,"White blood cell count
+IQ"
+478,-0.6684984202563071,5,0.6532516740278129,1EUhzwpG,"Avg. hours on social media
+Avg. hours of sleep"
+479,1.0,6,0.36007140561392004,1EUhzwpG,"Homeless population
+Uninsured population"
+480,1.0,4,0.06374735551255961,CqCqziQY,"Proportion of residents in poverty
+Crime rate"
+481,0.5364158965661252,4,0.33194608447881224,CqCqziQY,"Immigrant population
+Number of Domestic violence incidents"
+482,1.0,4,0.3684175727882919,CqCqziQY,"Percent body fat
+Red blood cell count"
+483,-1.0,4,0.29850221733572835,CqCqziQY,"Homeless population
+Uninsured population"
+484,0.7962244471745432,4,0.1325886959035727,CqCqziQY,"Avg. hours on social media
+Depression severity"
+485,0.807055024860706,4,0.8519710746717744,CqCqziQY,"Hours playing video games
+Aggression"
+486,-1.0,4,0.4557772263186537,CqCqziQY,"White blood cell count
+IQ"
+487,-1.0,4,0.0,CqCqziQY,"Amount of rainfall
+Number of sunny days"
+488,-0.9730774970713214,4,0.07238270979259886,CqCqziQY,"Daily caloric intake
+Body weight"
+489,-0.9062159136498273,4,0.34321341883903633,CqCqziQY,"Parental income
+Children's SAT scores"
+490,-0.3911373637285687,4,0.6098958606639064,CqCqziQY,"Years of education
+Income"
+491,-1.0,4,0.5670933282604584,CqCqziQY,"Daily calcium intake
+Avg. resting pulse"
+492,-0.6389415206047633,4,0.7221169587904734,CqCqziQY,"Minimum wage
+Unemployment rate"
+493,-1.0,4,0.0,CqCqziQY,"Avg. hours on social media
+Avg. hours of sleep"
+494,1.0,4,1.7046965747830662,CqCqziQY,"Number of religious population
+racial diversity"
+495,-0.9614287869127025,4,0.4225075677025494,CqCqziQY,"Annual carbon emissions
+Global temperature increase"
+496,0.21391997823179,4,0.4543881035932935,CqCqziQY,"Number of movies attended
+Amount red meat eaten"
+497,-1.0,4,0.0,CqCqziQY,"Immigrant population
+Crime rate"
+498,-1.0,4,0.39648156745322227,CqCqziQY,"Number traffic violations
+Car insurance premium"
+499,-1.0,4,0.061702300531162324,CqCqziQY,"IQ
+Income"
+500,-0.9322583346600379,4,0.07388709312543007,CqCqziQY,"Homeless population
+Avg. education attainment"
+501,-1.0,4,0.29517482490479496,CqCqziQY,"Median income
+Number of grocery stores"
+502,-0.985021402267011,4,0.3056237908116233,CqCqziQY,"College GPA
+Post-college income"
+503,-1.0,4,0.16665067846995107,CqCqziQY,"Yearly meat consumption
+Yearly carbon emissions"
+504,-0.688795183024971,4,0.6224096339500582,CqCqziQY,"SAT score
+College GPA"
+505,-1.0,4,0.22268161572530865,CqCqziQY,"Height
+College GPA"
+506,-0.8837899828113074,4,0.23242003437738523,CqCqziQY,"Per capita gun ownership
+Shooting-related deaths"
+507,-0.8577130470956629,4,0.4751421378429854,CqCqziQY,"Hours of TV watched in a month
+Number of books read in a month"
+508,-0.7017736986771723,4,0.21894870758915608,CqCqziQY,"Number of pedestrians
+No. Violent crimes"
+509,-0.6542473151493038,4,0.6915053697013926,CqCqziQY,"Crime severity
+Prison sentence duration"
+510,1.0,7,0.05335332767848455,GxB92bJP,"Annual carbon emissions
+Global temperature increase"
+511,0.5516176262121677,5,0.1253072999759941,GxB92bJP,"Daily calcium intake
+Avg. resting pulse"
+512,0.14217743386404869,6,0.04375087238667508,GxB92bJP,"Per capita gun ownership
+Shooting-related deaths"
+513,0.08102390821172456,4,0.0,GxB92bJP,"SAT score
+College GPA"
+514,0.0033012414219799613,5,0.03787165750490512,GxB92bJP,"Hours playing video games
+Aggression"
+515,-0.006807893713688229,4,0.05254427229461367,GxB92bJP,"Immigrant population
+Crime rate"
+516,0.6519646983943224,7,0.07389419014434595,GxB92bJP,"Number traffic violations
+Car insurance premium"
+517,-0.008649592106233506,4,0.04382404871154133,GxB92bJP,"Height
+College GPA"
+518,0.5395512170804557,6,0.0738803874576277,GxB92bJP,"Daily caloric intake
+Body weight"
+519,-0.05511134819097174,4,0.016332642112300455,GxB92bJP,"Homeless population
+Avg. education attainment"
+520,0.21075173969516325,5,0.03031106805709305,GxB92bJP,"Avg. hours on social media
+Depression severity"
+521,-0.16232016007798156,5,0.11892780810716491,GxB92bJP,"Minimum wage
+Unemployment rate"
+522,0.0033303271174047744,5,0.03815421402907582,GxB92bJP,"IQ
+Income"
+523,0.2512921864989808,6,0.023387235419466634,GxB92bJP,"Number of religious population
+racial diversity"
+524,0.6847710757009529,7,0.09174305324538756,GxB92bJP,"Yearly meat consumption
+Yearly carbon emissions"
+525,0.6610988964080227,7,0.0929354435119365,GxB92bJP,"Proportion of residents in poverty
+Crime rate"
+526,0.2969291084647929,6,0.015826459290781525,GxB92bJP,"Homeless population
+Uninsured population"
+527,-0.35995570376286845,6,0.16207591948492722,GxB92bJP,"Percent body fat
+Red blood cell count"
+528,0.011270917431909666,6,0.04780619517001955,GxB92bJP,"Parental income
+Children's SAT scores"
+529,0.011506533669929375,5,0.015087959938151041,GxB92bJP,"Number of pedestrians
+No. Violent crimes"
+530,-0.29555984559431886,6,0.0803372275871535,GxB92bJP,"Hours of TV watched in a month
+Number of books read in a month"
+531,0.045762302703790336,5,0.004432665127855451,GxB92bJP,"Amount of rainfall
+Number of sunny days"
+532,0.6743266082241797,5,0.2183977338415064,GxB92bJP,"Crime severity
+Prison sentence duration"
+533,0.7283484913136691,6,0.2833940269235664,GxB92bJP,"Avg. hours on social media
+Avg. hours of sleep"
+534,0.1981446309599384,5,0.1837642595968838,GxB92bJP,"Number of movies attended
+Amount red meat eaten"
+535,0.003060666087216557,6,0.1970280241148264,GxB92bJP,"College GPA
+Post-college income"
+536,0.6458159906286982,6,0.14312196543948197,GxB92bJP,"Median income
+Number of grocery stores"
+537,0.002810352237850644,4,0.11896352228458196,GxB92bJP,"White blood cell count
+IQ"
+538,0.10506520267727226,2,0.07313107732533819,GxB92bJP,"Years of education
+Income"
+539,0.03733367346684613,3,0.08688904906283756,GxB92bJP,"Immigrant population
+Number of Domestic violence incidents"
+540,-0.9621234067746842,5,0.33953415581477064,YoSIXg4O,"Hours of TV watched in a month
+Number of books read in a month"
+541,0.031394686121752446,6,0.2063064032973001,YoSIXg4O,"White blood cell count
+IQ"
+542,-0.913437435110503,5,0.42806474393058713,YoSIXg4O,"Avg. hours on social media
+Avg. hours of sleep"
+543,0.6688965412638745,6,0.6622069174722507,YoSIXg4O,"Number traffic violations
+Car insurance premium"
+544,0.30666876410671473,5,0.623947056246154,YoSIXg4O,"Immigrant population
+Number of Domestic violence incidents"
+545,0.4748433807055952,6,0.5304340227795115,YoSIXg4O,"College GPA
+Post-college income"
+546,-0.302626529548578,5,0.5350856508220987,YoSIXg4O,"Homeless population
+Avg. education attainment"
+547,0.23169912896980294,5,0.3502133919708388,YoSIXg4O,"Number of pedestrians
+No. Violent crimes"
+548,0.5753945838360435,6,1.0185654656178245,YoSIXg4O,"Parental income
+Children's SAT scores"
+549,-0.03363622071949118,6,0.09649125538777059,YoSIXg4O,"Number of movies attended
+Amount red meat eaten"
+550,0.8472724498699031,6,0.3160200407355742,YoSIXg4O,"Annual carbon emissions
+Global temperature increase"
+551,0.6084716086085835,6,0.34489150843565963,YoSIXg4O,"Homeless population
+Uninsured population"
+552,-0.013924530952224456,5,0.31620212217892285,YoSIXg4O,"Yearly meat consumption
+Yearly carbon emissions"
+553,0.04301469651957923,6,0.09398655920681076,YoSIXg4O,"Height
+College GPA"
+554,0.3395807548140546,6,0.3899517212423509,YoSIXg4O,"Per capita gun ownership
+Shooting-related deaths"
+555,0.6565660845854235,6,0.1952292297855731,YoSIXg4O,"Median income
+Number of grocery stores"
+556,-0.5427985180743493,6,0.5615466496900201,YoSIXg4O,"Amount of rainfall
+Number of sunny days"
+557,0.45729348333433006,6,0.1693431688540774,YoSIXg4O,"Years of education
+Income"
+558,0.36900636284809574,5,0.4317994297334824,YoSIXg4O,"Hours playing video games
+Aggression"
+559,0.4445490333438815,5,0.9113776359708892,YoSIXg4O,"IQ
+Income"
+560,0.07736058714056204,3,1.1364515735861902,YoSIXg4O,"Daily calcium intake
+Avg. resting pulse"
+561,0.36260870235036124,4,0.3378943910651435,YoSIXg4O,"Immigrant population
+Crime rate"
+562,0.13837948092217744,5,0.2617676659268542,YoSIXg4O,"Minimum wage
+Unemployment rate"
+563,0.09893422162799315,4,0.19932466125315607,YoSIXg4O,"Avg. hours on social media
+Depression severity"
+564,0.4557832535116466,6,0.3434959707527081,YoSIXg4O,"SAT score
+College GPA"
+565,0.5636882442163296,6,0.4683826159438069,YoSIXg4O,"Daily caloric intake
+Body weight"
+566,0.37881029394569876,6,0.24696903025201622,YoSIXg4O,"Proportion of residents in poverty
+Crime rate"
+567,-0.002101897881686521,5,0.09604173848007541,YoSIXg4O,"Percent body fat
+Red blood cell count"
+568,0.20575493020345537,5,0.3147365697166793,YoSIXg4O,"Number of religious population
+racial diversity"
+569,0.5882107850706555,5,0.27923861437951714,YoSIXg4O,"Crime severity
+Prison sentence duration"
+570,-0.06097947188911057,5,0.09306778797953053,iGMeEKm7,"Number of movies attended
+Amount red meat eaten"
+571,0.8099535626894225,6,0.4853208872289736,iGMeEKm7,"Parental income
+Children's SAT scores"
+572,0.006749571260766585,6,0.0,iGMeEKm7,"Height
+College GPA"
+573,-1.0,5,0.0,iGMeEKm7,"Homeless population
+Avg. education attainment"
+574,0.5036762850018732,6,0.30873480286028365,iGMeEKm7,"Crime severity
+Prison sentence duration"
+575,0.14862332004637002,5,0.1605531447805455,iGMeEKm7,"Annual carbon emissions
+Global temperature increase"
+576,0.281144375895205,6,0.16331070490199195,iGMeEKm7,"Years of education
+Income"
+577,0.30276059618237694,5,0.5657850139630713,iGMeEKm7,"Immigrant population
+Crime rate"
+578,0.12994200700013647,4,0.3972969082688392,iGMeEKm7,"Number of religious population
+racial diversity"
+579,-0.7460505768880219,6,0.03720992358072528,iGMeEKm7,"Amount of rainfall
+Number of sunny days"
+580,0.7377195697964396,5,0.6940994064728396,iGMeEKm7,"Immigrant population
+Number of Domestic violence incidents"
+581,-0.6009959690531181,5,0.0921004038215647,iGMeEKm7,"Avg. hours on social media
+Avg. hours of sleep"
+582,0.16514794363252738,5,0.6889278041627078,iGMeEKm7,"Yearly meat consumption
+Yearly carbon emissions"
+583,0.04737865206919678,4,0.02575290455623791,iGMeEKm7,"College GPA
+Post-college income"
+584,-0.2980383173354533,5,0.0,iGMeEKm7,"Percent body fat
+Red blood cell count"
+585,-0.13973325727464841,5,0.40424524077632557,iGMeEKm7,"Hours playing video games
+Aggression"
+586,-0.11836897895318765,5,0.35846622441805825,iGMeEKm7,"Number of pedestrians
+No. Violent crimes"
+587,0.546098663076398,5,0.8578965545087656,iGMeEKm7,"Proportion of residents in poverty
+Crime rate"
+588,0.7093413446689718,6,0.6433670472740314,iGMeEKm7,"Avg. hours on social media
+Depression severity"
+589,0.969345389194805,6,0.23866070354524482,iGMeEKm7,"Homeless population
+Uninsured population"
+590,0.7493975632848087,6,0.565326037607099,iGMeEKm7,"Number traffic violations
+Car insurance premium"
+591,0.07504639219752729,5,0.4832485673469114,iGMeEKm7,"Per capita gun ownership
+Shooting-related deaths"
+592,0.2894102425620364,4,0.9131205367720494,iGMeEKm7,"IQ
+Income"
+593,0.9876384637633182,7,0.49628577652147143,iGMeEKm7,"Daily caloric intake
+Body weight"
+594,0.012096981331537027,5,0.7027152395479823,iGMeEKm7,"Median income
+Number of grocery stores"
+595,-0.8295421036022446,5,0.9705561925302879,iGMeEKm7,"Hours of TV watched in a month
+Number of books read in a month"
+596,0.2589200197578754,5,0.2958933554680405,iGMeEKm7,"SAT score
+College GPA"
+597,0.02882201538098572,4,0.6044680021032487,iGMeEKm7,"Daily calcium intake
+Avg. resting pulse"
+598,-0.5601888023737129,4,0.37264534536589905,iGMeEKm7,"Minimum wage
+Unemployment rate"
+599,0.028854257515190662,4,0.12141472544410109,iGMeEKm7,"White blood cell count
+IQ"
+600,1.0,6,0.1549151291886388,jMs9vNdb,"Avg. hours on social media
+Depression severity"
+601,0.9520611848419578,5,0.23564138035193816,jMs9vNdb,"Per capita gun ownership
+Shooting-related deaths"
+602,0.7322390776734828,6,0.2753097487115892,jMs9vNdb,"Parental income
+Children's SAT scores"
+603,0.8188359716038991,5,0.42997255016427904,jMs9vNdb,"Years of education
+Income"
+604,0.022551992776626895,1,1.055957328841092,jMs9vNdb,"Daily calcium intake
+Avg. resting pulse"
+605,-0.004639439690291403,7,0.037449244751051436,jMs9vNdb,"White blood cell count
+IQ"
+606,-0.9031962115377095,5,0.4298367377676826,jMs9vNdb,"Hours of TV watched in a month
+Number of books read in a month"
+607,0.5211252524526702,4,0.6484918928758756,jMs9vNdb,"Hours playing video games
+Aggression"
+608,-0.6947747542845808,5,0.5757719936393706,jMs9vNdb,"Homeless population
+Avg. education attainment"
+609,-0.012516294324038668,1,1.246465693645637,jMs9vNdb,"Number of pedestrians
+No. Violent crimes"
+610,0.8288344553935334,5,0.40721355787693114,jMs9vNdb,"Annual carbon emissions
+Global temperature increase"
+611,0.33709596328059677,3,0.9823090279872249,jMs9vNdb,"Crime severity
+Prison sentence duration"
+612,0.730727717901092,3,0.6887143661294559,jMs9vNdb,"SAT score
+College GPA"
+613,-0.6376464058070841,5,0.29043544915034425,jMs9vNdb,"Avg. hours on social media
+Avg. hours of sleep"
+614,0.013200234412837908,6,0.03487563156057605,jMs9vNdb,"Height
+College GPA"
+615,0.004684033766144902,4,0.11985344790220642,jMs9vNdb,"Number of movies attended
+Amount red meat eaten"
+616,0.027394466559103714,4,1.6411291286792784,jMs9vNdb,"Median income
+Number of grocery stores"
+617,-0.7199832583886607,7,0.09767301613579904,jMs9vNdb,"Amount of rainfall
+Number of sunny days"
+618,0.0052849976257358655,6,0.06669754288009894,jMs9vNdb,"Immigrant population
+Number of Domestic violence incidents"
+619,0.7598471049256539,5,0.18909749376405172,jMs9vNdb,"Percent body fat
+Red blood cell count"
+620,0.46667426290879654,5,0.374340115181107,jMs9vNdb,"Proportion of residents in poverty
+Crime rate"
+621,0.9940721174093947,7,0.04377898227352728,jMs9vNdb,"Yearly meat consumption
+Yearly carbon emissions"
+622,-0.6124081116769218,4,0.3261946081740581,jMs9vNdb,"Number of religious population
+racial diversity"
+623,-0.39881478613491184,5,0.22402252071764406,jMs9vNdb,"Minimum wage
+Unemployment rate"
+624,0.4151507543768491,5,0.540875817918087,jMs9vNdb,"Number traffic violations
+Car insurance premium"
+625,0.39134573976592213,5,0.39501238124221727,jMs9vNdb,"Daily caloric intake
+Body weight"
+626,0.004812803243690045,5,0.11656478966870143,jMs9vNdb,"Immigrant population
+Crime rate"
+627,0.5436159138536143,5,0.34539638733279787,jMs9vNdb,"College GPA
+Post-college income"
+628,0.5851001247809753,5,0.28389709926337536,jMs9vNdb,"IQ
+Income"
+629,0.6181723294966983,5,0.2872645091974757,jMs9vNdb,"Homeless population
+Uninsured population"
+630,0.46955983484147557,5,0.3467572059920927,8J9RHUOo,"Yearly meat consumption
+Yearly carbon emissions"
+631,0.6192667522145971,6,0.19005772361679374,8J9RHUOo,"Crime severity
+Prison sentence duration"
+632,0.5403865425114966,5,0.26858981887447286,8J9RHUOo,"Number of pedestrians
+No. Violent crimes"
+633,0.9400157542789953,7,0.053131170814315176,8J9RHUOo,"Annual carbon emissions
+Global temperature increase"
+634,0.4298247631838097,4,0.3924365666690366,8J9RHUOo,"Homeless population
+Avg. education attainment"
+635,-0.5663641734054365,5,0.17227212565173455,8J9RHUOo,"Immigrant population
+Number of Domestic violence incidents"
+636,0.0,4,0.35964811550865056,8J9RHUOo,"Daily calcium intake
+Avg. resting pulse"
+637,0.7080339452440121,5,0.4936692545407262,8J9RHUOo,"College GPA
+Post-college income"
+638,1.0,7,0.0,8J9RHUOo,"Per capita gun ownership
+Shooting-related deaths"
+639,0.5296502866898531,4,0.1916267434337895,8J9RHUOo,"Proportion of residents in poverty
+Crime rate"
+640,0.011522215273126024,4,0.30342616399313527,8J9RHUOo,"Number of religious population
+racial diversity"
+641,0.5386235051813768,6,0.2077274549512591,8J9RHUOo,"Daily caloric intake
+Body weight"
+642,-0.6451405021578325,5,0.1236035656628256,8J9RHUOo,"Hours of TV watched in a month
+Number of books read in a month"
+643,-0.3592110922723761,5,0.16781339626993153,8J9RHUOo,"Minimum wage
+Unemployment rate"
+644,0.5466620134479436,6,0.26892788230646225,8J9RHUOo,"SAT score
+College GPA"
+645,0.7970467975194848,5,0.3996188150486666,8J9RHUOo,"Avg. hours on social media
+Depression severity"
+646,0.0,5,0.3431922577835988,8J9RHUOo,"Hours playing video games
+Aggression"
+647,0.5729204259509761,5,0.29158938124387856,8J9RHUOo,"Parental income
+Children's SAT scores"
+648,0.0,4,0.5595725753571172,8J9RHUOo,"Height
+College GPA"
+649,0.5435751367769983,6,0.21524816225775734,8J9RHUOo,"Median income
+Number of grocery stores"
+650,0.0,7,0.0,8J9RHUOo,"White blood cell count
+IQ"
+651,-0.01266863211108632,7,0.0,8J9RHUOo,"Number of movies attended
+Amount red meat eaten"
+652,1.0,6,0.1644845644684345,8J9RHUOo,"Homeless population
+Uninsured population"
+653,0.0,4,0.0,8J9RHUOo,"Percent body fat
+Red blood cell count"
+654,-1.0,6,0.0,8J9RHUOo,"Amount of rainfall
+Number of sunny days"
+655,1.0,7,0.0,8J9RHUOo,"Number traffic violations
+Car insurance premium"
+656,0.8132927051424259,6,0.0,8J9RHUOo,"Years of education
+Income"
+657,-0.522190348354491,6,0.19954926912504728,8J9RHUOo,"Immigrant population
+Crime rate"
+658,0.7271159893411554,6,0.2806797057064394,8J9RHUOo,"IQ
+Income"
+659,-0.5497129540616219,5,0.3267440298632973,8J9RHUOo,"Avg. hours on social media
+Avg. hours of sleep"
+660,0.5325670767467721,5,0.9607704136535606,7Dj5WX3Q,"College GPA
+Post-college income"
+661,-0.004774252926768474,2,0.5028077598461851,7Dj5WX3Q,"Number of movies attended
+Amount red meat eaten"
+662,0.3530248769329962,5,0.6207029178335979,7Dj5WX3Q,"IQ
+Income"
+663,0.3986429288463158,2,1.1411885751264133,7Dj5WX3Q,"Homeless population
+Uninsured population"
+664,0.16110370588268563,4,1.1470373840930577,7Dj5WX3Q,"Per capita gun ownership
+Shooting-related deaths"
+665,-0.010777349582140383,1,1.861210732078895,7Dj5WX3Q,"White blood cell count
+IQ"
+666,-0.22950700690657871,2,1.195223080260415,7Dj5WX3Q,"Number of pedestrians
+No. Violent crimes"
+667,0.3523126962281864,4,0.5891456341119128,7Dj5WX3Q,"Yearly meat consumption
+Yearly carbon emissions"
+668,-0.011741357491680704,4,0.3913734658020454,7Dj5WX3Q,"Height
+College GPA"
+669,0.10557834910260411,5,1.1346012744587117,7Dj5WX3Q,"Homeless population
+Avg. education attainment"
+670,-0.002902378890184687,5,0.4740615023026933,7Dj5WX3Q,"Hours playing video games
+Aggression"
+671,0.3937514371578781,6,0.3330739204854505,7Dj5WX3Q,"Annual carbon emissions
+Global temperature increase"
+672,0.07373706932480739,3,0.48550963514169077,7Dj5WX3Q,"Immigrant population
+Crime rate"
+673,-0.743431696886568,6,0.42274246689429185,7Dj5WX3Q,"Amount of rainfall
+Number of sunny days"
+674,0.3520040895652081,7,1.1682214672147597,7Dj5WX3Q,"Avg. hours on social media
+Depression severity"
+675,0.49735737432138816,6,1.035204158564783,7Dj5WX3Q,"Parental income
+Children's SAT scores"
+676,0.6230036686759528,6,0.7993003097825191,7Dj5WX3Q,"Crime severity
+Prison sentence duration"
+677,0.71689407512354,6,0.9468527987366135,7Dj5WX3Q,"Median income
+Number of grocery stores"
+678,0.007979461812458455,1,1.564202628556477,7Dj5WX3Q,"Percent body fat
+Red blood cell count"
+679,0.6922152888671951,7,0.6787503294231629,7Dj5WX3Q,"Number traffic violations
+Car insurance premium"
+680,0.6408606769909861,5,0.4308797875594217,7Dj5WX3Q,"Proportion of residents in poverty
+Crime rate"
+681,0.3971235917197571,1,1.3668700648193437,7Dj5WX3Q,"Number of religious population
+racial diversity"
+682,0.5572668571968318,6,0.9031338663587405,7Dj5WX3Q,"Daily caloric intake
+Body weight"
+683,-0.9259964586458378,6,0.3487041958598436,7Dj5WX3Q,"Hours of TV watched in a month
+Number of books read in a month"
+684,0.3992367892742743,6,0.9295989591093268,7Dj5WX3Q,"Years of education
+Income"
+685,0.008184633232376504,1,1.1461154148604367,7Dj5WX3Q,"Daily calcium intake
+Avg. resting pulse"
+686,-0.2581935628363175,4,0.932332609110943,7Dj5WX3Q,"Avg. hours on social media
+Avg. hours of sleep"
+687,0.3783079138946688,6,1.419242909953287,7Dj5WX3Q,"SAT score
+College GPA"
+688,0.32344995403886156,5,0.8518367447125998,7Dj5WX3Q,"Minimum wage
+Unemployment rate"
+689,0.005552385821595784,1,0.5874542955184994,7Dj5WX3Q,"Immigrant population
+Number of Domestic violence incidents"
+690,1.0,7,0.0,e0wzQdO4,"Per capita gun ownership
+Shooting-related deaths"
+691,0.7318872831202989,5,0.7820801619311182,e0wzQdO4,"SAT score
+College GPA"
+692,0.0012906550759053115,6,0.06331054958912907,e0wzQdO4,"White blood cell count
+IQ"
+693,1.0,7,0.3441912330456818,e0wzQdO4,"Number traffic violations
+Car insurance premium"
+694,1.0,7,0.0,e0wzQdO4,"Yearly meat consumption
+Yearly carbon emissions"
+695,0.7784013418267339,7,0.5591796647706873,e0wzQdO4,"Amount of rainfall
+Number of sunny days"
+696,1.0,7,0.0,e0wzQdO4,"Years of education
+Income"
+697,0.8983645491870158,6,0.0,e0wzQdO4,"Avg. hours on social media
+Depression severity"
+698,0.19385885718912732,5,0.17034544577525135,e0wzQdO4,"Immigrant population
+Crime rate"
+699,0.19615300628354038,5,0.19315660617799213,e0wzQdO4,"Homeless population
+Avg. education attainment"
+700,1.0,7,0.14623669231295522,e0wzQdO4,"Crime severity
+Prison sentence duration"
+701,-1.0,6,0.1466171664173641,e0wzQdO4,"Hours of TV watched in a month
+Number of books read in a month"
+702,1.0,7,0.22450594512968425,e0wzQdO4,"Proportion of residents in poverty
+Crime rate"
+703,0.036684118195631665,7,0.34504647422300777,e0wzQdO4,"Median income
+Number of grocery stores"
+704,-0.05428718461793075,4,0.45582363677463955,e0wzQdO4,"Daily calcium intake
+Avg. resting pulse"
+705,-0.16720559326718343,5,0.6750783859194989,e0wzQdO4,"Avg. hours on social media
+Avg. hours of sleep"
+706,0.00039795210508342116,7,0.03345718282463911,e0wzQdO4,"Height
+College GPA"
+707,0.001137005749311859,7,0.0016656770622343053,e0wzQdO4,"Number of movies attended
+Amount red meat eaten"
+708,0.6885848782448794,6,0.6228302435102413,e0wzQdO4,"IQ
+Income"
+709,0.3846450236480772,6,0.8401333918287299,e0wzQdO4,"Number of religious population
+racial diversity"
+710,1.0,7,0.0,e0wzQdO4,"Homeless population
+Uninsured population"
+711,0.001256690491001189,7,0.015217792843390754,e0wzQdO4,"Number of pedestrians
+No. Violent crimes"
+712,0.19615300628354038,3,0.9403390621259322,e0wzQdO4,"Percent body fat
+Red blood cell count"
+713,0.0014045363174917114,5,0.21792315923694416,e0wzQdO4,"Immigrant population
+Number of Domestic violence incidents"
+714,0.5219771633058321,7,0.9560456733883358,e0wzQdO4,"Annual carbon emissions
+Global temperature increase"
+715,-0.206399908785311,7,2.0,e0wzQdO4,"College GPA
+Post-college income"
+716,-0.00869125004585558,5,0.07901498299787901,e0wzQdO4,"Hours playing video games
+Aggression"
+717,1.0,6,0.46694661383323255,e0wzQdO4,"Daily caloric intake
+Body weight"
+718,-1.0,5,0.0002171018015675319,e0wzQdO4,"Minimum wage
+Unemployment rate"
+719,1.0,6,0.0,e0wzQdO4,"Parental income
+Children's SAT scores"
+720,-0.018324221466157864,6,0.3664314513416542,q2wHi2AH,"Number of movies attended
+Amount red meat eaten"
+721,0.1746434623114117,3,1.0537062152536563,q2wHi2AH,"Immigrant population
+Crime rate"
+722,0.9708712144223306,6,0.07538040649114008,q2wHi2AH,"Annual carbon emissions
+Global temperature increase"
+723,0.5644095516662968,6,0.6699525148282415,q2wHi2AH,"Median income
+Number of grocery stores"
+724,0.4524026487422983,6,0.3977173739208075,q2wHi2AH,"Parental income
+Children's SAT scores"
+725,0.5119181872366223,2,0.6722399111565489,q2wHi2AH,"Years of education
+Income"
+726,0.07981696607925381,2,0.8093036176020421,q2wHi2AH,"Minimum wage
+Unemployment rate"
+727,0.0074412276052946424,1,1.4824367664886005,q2wHi2AH,"Daily calcium intake
+Avg. resting pulse"
+728,-0.0020896311852664495,5,1.5019049085494562,q2wHi2AH,"Height
+College GPA"
+729,0.481779399610875,2,0.7725184847813964,q2wHi2AH,"Immigrant population
+Number of Domestic violence incidents"
+730,0.350721349846562,5,0.8879489060937344,q2wHi2AH,"College GPA
+Post-college income"
+731,0.9846672236004699,6,0.27321240511343237,q2wHi2AH,"Homeless population
+Uninsured population"
+732,0.9263239255628757,7,0.19706562239206526,q2wHi2AH,"Daily caloric intake
+Body weight"
+733,-0.39484612371979866,6,0.4089209247981494,q2wHi2AH,"Number of religious population
+racial diversity"
+734,-0.34098383552779565,6,0.27195697343714115,q2wHi2AH,"Homeless population
+Avg. education attainment"
+735,-0.05325925923972363,5,0.4051760331362165,q2wHi2AH,"Hours of TV watched in a month
+Number of books read in a month"
+736,0.06985374352542606,1,1.5139413363773726,q2wHi2AH,"Number of pedestrians
+No. Violent crimes"
+737,-0.04694418892099805,3,0.8877762020135376,q2wHi2AH,"White blood cell count
+IQ"
+738,-0.2543795736316121,2,1.5435801957741293,q2wHi2AH,"Avg. hours on social media
+Avg. hours of sleep"
+739,0.5127990819165764,4,0.61007390699011,q2wHi2AH,"Yearly meat consumption
+Yearly carbon emissions"
+740,0.03943147544215453,6,0.19687597250799543,q2wHi2AH,"Hours playing video games
+Aggression"
+741,0.6271364413935576,6,0.04673074340628869,q2wHi2AH,"Per capita gun ownership
+Shooting-related deaths"
+742,0.09866379963842942,1,1.0589352844832995,q2wHi2AH,"Percent body fat
+Red blood cell count"
+743,0.8350823309499344,7,0.031225008542516308,q2wHi2AH,"Number traffic violations
+Car insurance premium"
+744,0.07981696607925381,6,0.13769619142582923,q2wHi2AH,"IQ
+Income"
+745,-0.21727748355284593,3,0.5076984754630529,q2wHi2AH,"Amount of rainfall
+Number of sunny days"
+746,0.5186704817977743,6,0.1514723392501529,q2wHi2AH,"Proportion of residents in poverty
+Crime rate"
+747,0.4340629386422774,4,0.41793655913349426,q2wHi2AH,"Avg. hours on social media
+Depression severity"
+748,0.5320826223340258,6,0.3521179900293203,q2wHi2AH,"SAT score
+College GPA"
+749,0.6136913309778149,6,0.322577364471033,q2wHi2AH,"Crime severity
+Prison sentence duration"
+750,0.48802888934104627,5,0.41730723492644617,16G2ewcH,"Crime severity
+Prison sentence duration"
+751,0.8323265314138155,6,0.34971005743715744,16G2ewcH,"Parental income
+Children's SAT scores"
+752,0.035977685715482544,1,1.537898348757142,16G2ewcH,"Daily calcium intake
+Avg. resting pulse"
+753,0.33154857457144127,5,0.559821868078243,16G2ewcH,"Hours playing video games
+Aggression"
+754,0.525644662634809,6,0.42397391985467126,16G2ewcH,"Proportion of residents in poverty
+Crime rate"
+755,-0.01462756810822885,2,0.8465740603047855,16G2ewcH,"Homeless population
+Avg. education attainment"
+756,0.7002474805597614,6,0.30795700789865554,16G2ewcH,"Median income
+Number of grocery stores"
+757,0.8769266534242115,6,0.3281556773513066,16G2ewcH,"Number traffic violations
+Car insurance premium"
+758,0.1408002330629825,5,0.6867005750520658,16G2ewcH,"Yearly meat consumption
+Yearly carbon emissions"
+759,0.0036890115371244203,4,0.6768556378950665,16G2ewcH,"Number of pedestrians
+No. Violent crimes"
+760,-0.17826536846362573,5,0.5822611763016956,16G2ewcH,"Minimum wage
+Unemployment rate"
+761,-0.257387741259119,5,0.6448901626768404,16G2ewcH,"Immigrant population
+Crime rate"
+762,0.5054657027710883,6,0.3800185064225676,16G2ewcH,"Annual carbon emissions
+Global temperature increase"
+763,-0.35962442012164564,5,0.4902321098783015,16G2ewcH,"Avg. hours on social media
+Avg. hours of sleep"
+764,-0.33626275382469034,5,0.5736650088977178,16G2ewcH,"Number of religious population
+racial diversity"
+765,0.011962274463862999,7,0.4318970994580169,16G2ewcH,"Number of movies attended
+Amount red meat eaten"
+766,0.10940403010249855,6,0.4410589312075943,16G2ewcH,"College GPA
+Post-college income"
+767,0.0042200019779801146,2,0.8463811942377222,16G2ewcH,"White blood cell count
+IQ"
+768,-0.7314632746900385,6,0.45703878075438253,16G2ewcH,"Amount of rainfall
+Number of sunny days"
+769,0.3176712373276802,6,0.5309871788192733,16G2ewcH,"Homeless population
+Uninsured population"
+770,0.5451386591303056,6,0.44737927723077475,16G2ewcH,"Daily caloric intake
+Body weight"
+771,-0.7004174640757244,6,0.4259210353128387,16G2ewcH,"Hours of TV watched in a month
+Number of books read in a month"
+772,0.10940403010249855,6,0.8395831892456289,16G2ewcH,"SAT score
+College GPA"
+773,0.31588519475853527,5,0.8159237403004833,16G2ewcH,"Years of education
+Income"
+774,0.004420952874680584,6,1.2928697797405735,16G2ewcH,"Percent body fat
+Red blood cell count"
+775,-0.20236506259235038,6,0.45978457287294977,16G2ewcH,"Immigrant population
+Number of Domestic violence incidents"
+776,0.4847576644129523,6,0.5579067186257802,16G2ewcH,"Avg. hours on social media
+Depression severity"
+777,0.3423669430095502,6,0.3255116046951865,16G2ewcH,"Per capita gun ownership
+Shooting-related deaths"
+778,0.19606166987303508,6,0.9894545216904251,16G2ewcH,"IQ
+Income"
+779,-0.1905520886006688,6,0.7512424740750385,16G2ewcH,"Height
+College GPA"
+780,0.974335731129524,5,0.20399891926125102,NQNXOqSn,"Hours playing video games
+Aggression"
+781,0.24271827744294994,4,0.15682877766412306,NQNXOqSn,"IQ
+Income"
+782,-1.0,6,0.0,NQNXOqSn,"Height
+College GPA"
+783,-1.0,5,0.08101102988025222,NQNXOqSn,"Yearly meat consumption
+Yearly carbon emissions"
+784,1.0,5,0.33790813559144217,NQNXOqSn,"Crime severity
+Prison sentence duration"
+785,-1.0,6,0.15655113612457017,NQNXOqSn,"Minimum wage
+Unemployment rate"
+786,0.37569568701724787,4,0.2579277477840396,NQNXOqSn,"Homeless population
+Avg. education attainment"
+787,0.14974659400063417,5,1.836715227736588,NQNXOqSn,"Amount of rainfall
+Number of sunny days"
+788,0.5403782475031271,5,1.7419517771519477,NQNXOqSn,"Number of religious population
+racial diversity"
+789,0.6162990254936687,5,1.4620395517661653,NQNXOqSn,"Avg. hours on social media
+Depression severity"
+790,0.6421251096478695,5,0.26922196143207544,NQNXOqSn,"Proportion of residents in poverty
+Crime rate"
+791,0.08306235346551216,4,0.1800043610313618,NQNXOqSn,"Percent body fat
+Red blood cell count"
+792,0.398420917613874,5,0.4400426002298097,NQNXOqSn,"Homeless population
+Uninsured population"
+793,0.004499897810108733,5,0.0,NQNXOqSn,"Number of movies attended
+Amount red meat eaten"
+794,0.4854600169749299,5,0.3886774757122964,NQNXOqSn,"Number of pedestrians
+No. Violent crimes"
+795,0.11370017749553663,5,0.17946385291994704,NQNXOqSn,"White blood cell count
+IQ"
+796,-0.5582657871926522,5,0.3584118043279432,NQNXOqSn,"Avg. hours on social media
+Avg. hours of sleep"
+797,0.4007147223381906,5,1.9059465242500997,NQNXOqSn,"SAT score
+College GPA"
+798,0.14472118096558395,5,0.03791917704825942,NQNXOqSn,"Parental income
+Children's SAT scores"
+799,0.8519928913988495,5,1.6084480535879666,NQNXOqSn,"Number traffic violations
+Car insurance premium"
+800,0.14289049606625537,4,0.3215884940948505,NQNXOqSn,"Immigrant population
+Number of Domestic violence incidents"
+801,1.0,5,0.37498199137107435,NQNXOqSn,"Per capita gun ownership
+Shooting-related deaths"
+802,0.13812668417770047,5,0.28126831376286204,NQNXOqSn,"Immigrant population
+Crime rate"
+803,0.22921069656974358,3,0.38028947504703203,NQNXOqSn,"College GPA
+Post-college income"
+804,0.26799999975290634,4,0.45372057376571684,NQNXOqSn,"Daily caloric intake
+Body weight"
+805,0.05942367724892317,4,0.45493413046132836,NQNXOqSn,"Years of education
+Income"
+806,0.726072580950567,4,0.23918982163025726,NQNXOqSn,"Median income
+Number of grocery stores"
+807,-0.7561888476445631,4,0.37490822608142516,NQNXOqSn,"Hours of TV watched in a month
+Number of books read in a month"
+808,1.0,5,0.27068889213207714,NQNXOqSn,"Annual carbon emissions
+Global temperature increase"
+809,0.425577798676644,2,0.7479865883943662,NQNXOqSn,"Daily calcium intake
+Avg. resting pulse"
+810,0.1933468322838996,5,0.4703207757181959,Syturkmd,"Crime severity
+Prison sentence duration"
+811,0.6212778250574684,5,0.46850033908639266,Syturkmd,"Daily caloric intake
+Body weight"
+812,0.6158483574565563,5,0.5936390419927038,Syturkmd,"Annual carbon emissions
+Global temperature increase"
+813,-0.17463641725038093,5,0.2791372782206666,Syturkmd,"Avg. hours on social media
+Avg. hours of sleep"
+814,-0.004838636435506916,5,0.29676465476580116,Syturkmd,"Immigrant population
+Number of Domestic violence incidents"
+815,0.5897425109428343,5,0.23059873207897308,Syturkmd,"Yearly meat consumption
+Yearly carbon emissions"
+816,1.0,5,0.13802952910979616,Syturkmd,"Median income
+Number of grocery stores"
+817,-0.07744664743140722,5,0.3218001839729843,Syturkmd,"Percent body fat
+Red blood cell count"
+818,-0.15259267547796673,5,0.26998119142167726,Syturkmd,"Homeless population
+Avg. education attainment"
+819,1.0,6,0.07564852576828995,Syturkmd,"Number traffic violations
+Car insurance premium"
+820,0.7640496066836702,5,0.23113601515170967,Syturkmd,"Years of education
+Income"
+821,0.45096968868578435,5,0.3235049812383386,Syturkmd,"SAT score
+College GPA"
+822,0.6925268416995916,5,0.3302042127621525,Syturkmd,"Number of pedestrians
+No. Violent crimes"
+823,0.526194809096423,5,0.3442069562445722,Syturkmd,"Avg. hours on social media
+Depression severity"
+824,0.23302860824012828,5,0.4336690727880821,Syturkmd,"Hours playing video games
+Aggression"
+825,0.79872094971125,5,0.2606360828340972,Syturkmd,"Per capita gun ownership
+Shooting-related deaths"
+826,0.014076825544675264,6,0.11624998524774072,Syturkmd,"Height
+College GPA"
+827,0.8852527207332981,6,0.15414196097953226,Syturkmd,"Parental income
+Children's SAT scores"
+828,-0.014610969584676337,4,0.3106318638255905,Syturkmd,"Number of religious population
+racial diversity"
+829,0.09572512689852308,4,0.5555061019404304,Syturkmd,"Minimum wage
+Unemployment rate"
+830,0.006710027706635868,3,0.297658414098384,Syturkmd,"Daily calcium intake
+Avg. resting pulse"
+831,0.004885642357109754,4,0.37012849996578634,Syturkmd,"Immigrant population
+Crime rate"
+832,-0.6472816860073158,5,0.3548488508548437,Syturkmd,"Amount of rainfall
+Number of sunny days"
+833,-0.007160778056168604,4,0.21848034233312325,Syturkmd,"Number of movies attended
+Amount red meat eaten"
+834,-0.0218560426475356,4,0.13677772472253197,Syturkmd,"White blood cell count
+IQ"
+835,-0.7318828024894817,5,0.4138725846235427,Syturkmd,"Hours of TV watched in a month
+Number of books read in a month"
+836,0.27564972703319746,5,0.47376484783772965,Syturkmd,"College GPA
+Post-college income"
+837,0.6663088069487177,5,0.4488457850853529,Syturkmd,"IQ
+Income"
+838,0.5762284912270426,4,0.288832034182982,Syturkmd,"Homeless population
+Uninsured population"
+839,0.8825879276972726,6,0.2348241446054551,Syturkmd,"Proportion of residents in poverty
+Crime rate"
+840,-0.2495391111748782,4,0.708269861530803,EMImzQIL,"Avg. hours on social media
+Depression severity"
+841,-0.32422423394586164,4,1.1227422753198892,EMImzQIL,"Homeless population
+Avg. education attainment"
+842,0.5455609026395394,5,1.0214379189131946,EMImzQIL,"Number traffic violations
+Car insurance premium"
+843,0.18973985264416715,6,1.2124626979819002,EMImzQIL,"Amount of rainfall
+Number of sunny days"
+844,0.4474141263115661,4,1.3016090335768378,EMImzQIL,"Years of education
+Income"
+845,0.31513777459198056,4,1.3481184853455817,EMImzQIL,"Proportion of residents in poverty
+Crime rate"
+846,0.03903034548096884,5,1.118490754794877,EMImzQIL,"Minimum wage
+Unemployment rate"
+847,-0.0007346807517711884,6,0.039173845616970626,EMImzQIL,"Height
+College GPA"
+848,0.024506679063435177,4,0.5917562535527685,EMImzQIL,"College GPA
+Post-college income"
+849,0.03244394808263373,5,0.3907929141916586,EMImzQIL,"Immigrant population
+Number of Domestic violence incidents"
+850,-1.0,5,0.5943267792346116,EMImzQIL,"Avg. hours on social media
+Avg. hours of sleep"
+851,0.9998162939534887,5,0.8397906435813145,EMImzQIL,"Daily caloric intake
+Body weight"
+852,0.3730286401701852,4,0.5306371866274462,EMImzQIL,"Immigrant population
+Crime rate"
+853,0.09501575470968016,4,1.3723609263759715,EMImzQIL,"Yearly meat consumption
+Yearly carbon emissions"
+854,0.033017442008911324,6,0.4117138891007004,EMImzQIL,"White blood cell count
+IQ"
+855,0.039649477456275006,5,0.7227811122941439,EMImzQIL,"Median income
+Number of grocery stores"
+856,0.017505829560070074,3,0.1454416080006618,EMImzQIL,"Parental income
+Children's SAT scores"
+857,0.008806484891246136,4,0.17600222113798725,EMImzQIL,"IQ
+Income"
+858,1.0,4,2.0,EMImzQIL,"Number of religious population
+racial diversity"
+859,-0.0006201850699780187,5,2.0,EMImzQIL,"Hours playing video games
+Aggression"
+860,0.4006323068255291,5,1.1987353863489418,EMImzQIL,"Daily calcium intake
+Avg. resting pulse"
+861,0.045075128437982004,5,0.35638854733732983,EMImzQIL,"Number of pedestrians
+No. Violent crimes"
+862,-0.028494899673904117,4,0.8249978607744115,EMImzQIL,"Per capita gun ownership
+Shooting-related deaths"
+863,0.5041035276617669,5,0.6986231206919309,EMImzQIL,"Hours of TV watched in a month
+Number of books read in a month"
+864,0.30080809851478896,4,0.39761267203816875,EMImzQIL,"Annual carbon emissions
+Global temperature increase"
+865,0.5476012681141931,4,0.8149853931060149,EMImzQIL,"Homeless population
+Uninsured population"
+866,0.6292219915286525,4,1.1247932147983748,EMImzQIL,"Percent body fat
+Red blood cell count"
+867,0.0003790020059888377,4,0.0,EMImzQIL,"Number of movies attended
+Amount red meat eaten"
+868,0.39119565373935083,5,1.2176086925212983,EMImzQIL,"SAT score
+College GPA"
+869,1.0,6,0.8560928472454254,EMImzQIL,"Crime severity
+Prison sentence duration"
+870,0.16006253277809113,5,0.20238851158013293,Y5TkE5Az,"Daily calcium intake
+Avg. resting pulse"
+871,-1.0,6,0.2855538322503308,Y5TkE5Az,"Amount of rainfall
+Number of sunny days"
+872,-0.012401735964408578,6,0.009486287197975674,Y5TkE5Az,"Number of movies attended
+Amount red meat eaten"
+873,0.6124190620157486,6,0.7751618759685026,Y5TkE5Az,"Parental income
+Children's SAT scores"
+874,1.0,6,0.3378889348000902,Y5TkE5Az,"Yearly meat consumption
+Yearly carbon emissions"
+875,0.30672229174312715,6,1.2766047143768575,Y5TkE5Az,"Years of education
+Income"
+876,-0.028889477868458968,2,2.0,Y5TkE5Az,"Hours of TV watched in a month
+Number of books read in a month"
+877,0.004472559353618122,4,0.31755613582489084,Y5TkE5Az,"White blood cell count
+IQ"
+878,0.34059825316755243,6,1.5606840726513909,Y5TkE5Az,"Daily caloric intake
+Body weight"
+879,0.6120204854477012,4,1.02286371256134,Y5TkE5Az,"Number of pedestrians
+No. Violent crimes"
+880,0.7578541225930817,7,0.5867836871336318,Y5TkE5Az,"Median income
+Number of grocery stores"
+881,0.4505763585159941,6,1.5387852567566285,Y5TkE5Az,"IQ
+Income"
+882,0.18859512319259508,5,1.0246926022496792,Y5TkE5Az,"Hours playing video games
+Aggression"
+883,0.5823311289184985,5,0.9240915690083895,Y5TkE5Az,"Homeless population
+Uninsured population"
+884,0.2988564092190227,5,1.6006917048852307,Y5TkE5Az,"Crime severity
+Prison sentence duration"
+885,0.012673620141655073,4,0.5704738837736387,Y5TkE5Az,"Per capita gun ownership
+Shooting-related deaths"
+886,0.23846047640751955,5,1.0340171207761992,Y5TkE5Az,"Proportion of residents in poverty
+Crime rate"
+887,0.19069021998944957,3,0.9648544318486174,Y5TkE5Az,"Minimum wage
+Unemployment rate"
+888,-0.3608253893337863,4,1.3518928932234406,Y5TkE5Az,"Avg. hours on social media
+Depression severity"
+889,-0.34890723089008713,5,1.2341530531637521,Y5TkE5Az,"Percent body fat
+Red blood cell count"
+890,0.12260258802522217,6,1.3625703699002008,Y5TkE5Az,"College GPA
+Post-college income"
+891,-0.45965646678716127,4,1.3644904401020217,Y5TkE5Az,"Immigrant population
+Number of Domestic violence incidents"
+892,0.4247877694177109,5,1.1504244611645782,Y5TkE5Az,"Avg. hours on social media
+Avg. hours of sleep"
+893,0.4228881765875012,5,1.5253095638293193,Y5TkE5Az,"Number of religious population
+racial diversity"
+894,0.39330678811118047,5,1.5269952646854659,Y5TkE5Az,"Immigrant population
+Crime rate"
+895,-0.7115431482705188,5,0.570530907584599,Y5TkE5Az,"Homeless population
+Avg. education attainment"
+896,0.46866873325754543,4,0.5411627468070517,Y5TkE5Az,"Annual carbon emissions
+Global temperature increase"
+897,0.0031760696955407397,3,0.019937380593918086,Y5TkE5Az,"Height
+College GPA"
+898,0.17272408131955963,5,1.5903343936396537,Y5TkE5Az,"SAT score
+College GPA"
+899,0.34059807081345705,5,1.5109886578811054,Y5TkE5Az,"Number traffic violations
+Car insurance premium"
+900,-0.010600906091251472,6,0.1679313943030361,imv4tZol,"Percent body fat
+Red blood cell count"
+901,0.7068276371120419,6,0.36779520953170364,imv4tZol,"Daily caloric intake
+Body weight"
+902,0.7812583021976902,6,0.4374833956046198,imv4tZol,"Years of education
+Income"
+903,0.1512397335098732,5,0.24031392364346327,imv4tZol,"Number of movies attended
+Amount red meat eaten"
+904,0.0943461772093257,2,0.2286194148904812,imv4tZol,"Daily calcium intake
+Avg. resting pulse"
+905,0.7495211332083171,6,0.3246587140198274,imv4tZol,"SAT score
+College GPA"
+906,-0.6372367200895628,5,0.39985007880674767,imv4tZol,"Homeless population
+Avg. education attainment"
+907,0.31321565469888646,5,0.43909752120573176,imv4tZol,"IQ
+Income"
+908,0.13700221231871845,5,0.3602883203305321,imv4tZol,"Immigrant population
+Crime rate"
+909,0.6824128132704093,6,0.534850211671325,imv4tZol,"Yearly meat consumption
+Yearly carbon emissions"
+910,-0.9764922387372821,6,0.3099811749495407,imv4tZol,"Avg. hours on social media
+Avg. hours of sleep"
+911,-0.1830067621592804,3,0.4539079930326393,imv4tZol,"Number of pedestrians
+No. Violent crimes"
+912,0.8054212723699465,6,0.38787177220637026,imv4tZol,"Proportion of residents in poverty
+Crime rate"
+913,0.14059047464749463,3,0.3753857736231922,imv4tZol,"Immigrant population
+Number of Domestic violence incidents"
+914,0.7304934602808753,6,0.3540483968199082,imv4tZol,"Hours playing video games
+Aggression"
+915,-0.07417753151987233,5,0.20130047112940447,imv4tZol,"Number of religious population
+racial diversity"
+916,0.7308297678151188,6,0.4972186188622236,imv4tZol,"Annual carbon emissions
+Global temperature increase"
+917,-0.8823925604353975,6,0.3299099475996097,imv4tZol,"Hours of TV watched in a month
+Number of books read in a month"
+918,0.15514242681704538,2,0.2609809566654777,imv4tZol,"Height
+College GPA"
+919,0.14936076912806828,5,0.3350311274570755,imv4tZol,"College GPA
+Post-college income"
+920,0.7296747479104524,6,0.4928073169315339,imv4tZol,"Per capita gun ownership
+Shooting-related deaths"
+921,0.7709346965872463,6,0.3859130151485015,imv4tZol,"Homeless population
+Uninsured population"
+922,0.8514452166412145,7,0.2971095667175705,imv4tZol,"Crime severity
+Prison sentence duration"
+923,0.8033269859860923,6,0.3933460280278154,imv4tZol,"Median income
+Number of grocery stores"
+924,0.881893086743722,7,0.23621382651255574,imv4tZol,"Number traffic violations
+Car insurance premium"
+925,0.14509014953452648,3,0.34784145474847805,imv4tZol,"White blood cell count
+IQ"
+926,-0.26454250673601365,3,0.285365606523463,imv4tZol,"Amount of rainfall
+Number of sunny days"
+927,0.7340103768573012,6,0.31924027389636844,imv4tZol,"Avg. hours on social media
+Depression severity"
+928,-0.4614532792357586,5,0.42817364856934154,imv4tZol,"Minimum wage
+Unemployment rate"
+929,0.5485643492637624,5,0.4279254412324174,imv4tZol,"Parental income
+Children's SAT scores"
+930,0.1921758433619316,5,0.28693859960822365,GJUplMf2,"Avg. hours on social media
+Avg. hours of sleep"
+931,1.0,5,0.7783987180593093,GJUplMf2,"Crime severity
+Prison sentence duration"
+932,0.017560811165093115,6,0.18695662942854097,GJUplMf2,"Daily calcium intake
+Avg. resting pulse"
+933,-0.47855835175016764,3,0.8392174312635738,GJUplMf2,"Number of religious population
+racial diversity"
+934,0.20139680254095382,5,0.4921071078828474,GJUplMf2,"College GPA
+Post-college income"
+935,0.0,6,0.0,GJUplMf2,"White blood cell count
+IQ"
+936,-0.1758486955392322,2,0.24886528006405484,GJUplMf2,"Number of pedestrians
+No. Violent crimes"
+937,1.0,6,0.0,GJUplMf2,"Per capita gun ownership
+Shooting-related deaths"
+938,-0.30795417057247554,2,0.38383811164266074,GJUplMf2,"Homeless population
+Avg. education attainment"
+939,0.0,4,0.0,GJUplMf2,"Immigrant population
+Number of Domestic violence incidents"
+940,0.10064053859850075,4,0.38464396971226167,GJUplMf2,"IQ
+Income"
+941,-1.0,5,0.35916664644753515,GJUplMf2,"Amount of rainfall
+Number of sunny days"
+942,-1.0,5,0.5734627628756546,GJUplMf2,"Hours of TV watched in a month
+Number of books read in a month"
+943,0.6978141027291842,5,0.8513738003894515,GJUplMf2,"Daily caloric intake
+Body weight"
+944,0.4303280275453707,5,0.5428322226988547,GJUplMf2,"Number traffic violations
+Car insurance premium"
+945,0.03253578013705871,4,0.01465282111958377,GJUplMf2,"Hours playing video games
+Aggression"
+946,1.0,6,0.10853510675388511,GJUplMf2,"Annual carbon emissions
+Global temperature increase"
+947,0.07505494954036274,3,1.227452885287755,GJUplMf2,"Avg. hours on social media
+Depression severity"
+948,0.12089626735567793,4,0.12574685067133196,GJUplMf2,"Height
+College GPA"
+949,0.21377172888219675,5,0.5162211704246689,GJUplMf2,"Homeless population
+Uninsured population"
+950,-0.009062050145905554,2,0.0,GJUplMf2,"Minimum wage
+Unemployment rate"
+951,-0.21660200309127675,6,0.09677483548908622,GJUplMf2,"Immigrant population
+Crime rate"
+952,0.5014890906194358,5,0.0,GJUplMf2,"Parental income
+Children's SAT scores"
+953,0.24853760268867964,5,0.3446594756110415,GJUplMf2,"Proportion of residents in poverty
+Crime rate"
+954,0.3212197764159608,5,0.4444127602396408,GJUplMf2,"Median income
+Number of grocery stores"
+955,0.5108603733795696,5,0.2571096388800289,GJUplMf2,"Years of education
+Income"
+956,0.18933937505675358,5,0.21343590107781152,GJUplMf2,"SAT score
+College GPA"
+957,0.20235218981001735,3,0.23232551282680336,GJUplMf2,"Yearly meat consumption
+Yearly carbon emissions"
+958,0.23965106372361333,4,0.2375095927358708,GJUplMf2,"Number of movies attended
+Amount red meat eaten"
+959,0.030922814501062712,1,2.0,GJUplMf2,"Percent body fat
+Red blood cell count"
+960,0.05264440191555786,3,1.8947111961688845,7h9SEIHy,"Immigrant population
+Crime rate"
+961,0.36337190384263574,6,0.36711782005446336,7h9SEIHy,"Per capita gun ownership
+Shooting-related deaths"
+962,0.29986505944763286,5,0.599730118895266,7h9SEIHy,"Number of pedestrians
+No. Violent crimes"
+963,-0.30595265360736595,5,0.43922249390920015,7h9SEIHy,"Percent body fat
+Red blood cell count"
+964,0.057386993776990636,5,1.8852260124460185,7h9SEIHy,"SAT score
+College GPA"
+965,-0.620166577549897,7,0.1439999985031406,7h9SEIHy,"Homeless population
+Avg. education attainment"
+966,0.2865728378168242,5,0.2167402304667969,7h9SEIHy,"Proportion of residents in poverty
+Crime rate"
+967,0.8627324902269444,5,0.2998442444006941,7h9SEIHy,"Annual carbon emissions
+Global temperature increase"
+968,-0.26826383924385283,5,0.25024308133153067,7h9SEIHy,"Amount of rainfall
+Number of sunny days"
+969,0.07588886993984212,5,0.22149701165632524,7h9SEIHy,"Height
+College GPA"
+970,-0.38781016143733377,5,0.5105529085456704,7h9SEIHy,"Avg. hours on social media
+Avg. hours of sleep"
+971,0.5360867768288871,6,0.18721921634928207,7h9SEIHy,"Number traffic violations
+Car insurance premium"
+972,0.2504640915182974,5,0.4016398161385619,7h9SEIHy,"IQ
+Income"
+973,0.0,4,0.2282569159843038,7h9SEIHy,"White blood cell count
+IQ"
+974,0.680427882755424,5,0.3604681365924376,7h9SEIHy,"Median income
+Number of grocery stores"
+975,0.7412267584323362,6,0.5175464831353278,7h9SEIHy,"Avg. hours on social media
+Depression severity"
+976,0.041709257786923803,4,0.8706612616324383,7h9SEIHy,"Number of movies attended
+Amount red meat eaten"
+977,0.1607941849697856,3,0.622168769744905,7h9SEIHy,"Immigrant population
+Number of Domestic violence incidents"
+978,-0.22123966097228248,3,0.2500719481584696,7h9SEIHy,"Daily calcium intake
+Avg. resting pulse"
+979,0.9658370185133827,6,0.3961415825263239,7h9SEIHy,"Daily caloric intake
+Body weight"
+980,0.4131196581334833,5,0.4012757830772755,7h9SEIHy,"Yearly meat consumption
+Yearly carbon emissions"
+981,0.5962626983978137,5,0.8074746032043727,7h9SEIHy,"Crime severity
+Prison sentence duration"
+982,0.1658330574989102,6,0.5110418687811222,7h9SEIHy,"Minimum wage
+Unemployment rate"
+983,0.8689359782649371,6,0.2621280434701263,7h9SEIHy,"Parental income
+Children's SAT scores"
+984,-0.011118196162543503,4,0.8590170842658802,7h9SEIHy,"Hours playing video games
+Aggression"
+985,-0.3514085606386439,5,0.45419096774252354,7h9SEIHy,"Hours of TV watched in a month
+Number of books read in a month"
+986,0.8770613720016809,5,0.33779644301142664,7h9SEIHy,"Homeless population
+Uninsured population"
+987,-0.5414746597779572,6,0.3612921621465391,7h9SEIHy,"Number of religious population
+racial diversity"
+988,0.10808601666529549,6,0.4048131794416771,7h9SEIHy,"College GPA
+Post-college income"
+989,0.3104380948348546,6,0.4766232849114205,7h9SEIHy,"Years of education
+Income"
+990,0.813106942283164,6,0.26215533995781914,YxEVoInr,"SAT score
+College GPA"
+991,0.07621535881726604,5,0.15101220327187947,YxEVoInr,"Height
+College GPA"
+992,-0.13994381057566874,3,0.6189044529938639,YxEVoInr,"Immigrant population
+Crime rate"
+993,0.5732509834105564,6,0.4198902494834469,YxEVoInr,"Parental income
+Children's SAT scores"
+994,0.14640996338884782,6,0.7427209483137915,YxEVoInr,"Daily calcium intake
+Avg. resting pulse"
+995,-0.42530911501755564,1,0.8419870449054625,YxEVoInr,"Immigrant population
+Number of Domestic violence incidents"
+996,0.6245625838384139,1,0.6602338106717471,YxEVoInr,"Percent body fat
+Red blood cell count"
+997,0.9619082030930854,6,0.151398152489981,YxEVoInr,"Yearly meat consumption
+Yearly carbon emissions"
+998,0.9113680135085143,7,0.1472881271085278,YxEVoInr,"Crime severity
+Prison sentence duration"
+999,0.24326948822552596,4,0.47819074994414024,YxEVoInr,"Median income
+Number of grocery stores"
+1000,-0.5362522999385124,5,0.37171788847857523,YxEVoInr,"Minimum wage
+Unemployment rate"
+1001,0.9402620174372758,7,0.4160866164738366,YxEVoInr,"Years of education
+Income"
+1002,0.9407341742017188,7,0.1416562160184618,YxEVoInr,"Annual carbon emissions
+Global temperature increase"
+1003,0.6516040933709526,6,0.21554274651532457,YxEVoInr,"Per capita gun ownership
+Shooting-related deaths"
+1004,0.22189432431313327,5,0.4017756873280749,YxEVoInr,"Number of movies attended
+Amount red meat eaten"
+1005,0.3150793054222658,4,0.58814564954634,YxEVoInr,"Number of pedestrians
+No. Violent crimes"
+1006,-0.474523762862133,6,0.31136290605768835,YxEVoInr,"Hours of TV watched in a month
+Number of books read in a month"
+1007,0.6071995300505724,7,0.15390401157721478,YxEVoInr,"Proportion of residents in poverty
+Crime rate"
+1008,0.7757786377728195,6,0.23673048786564732,YxEVoInr,"Homeless population
+Uninsured population"
+1009,0.0040416157709077805,6,0.2481585395465487,YxEVoInr,"Hours playing video games
+Aggression"
+1010,0.9668524536572054,7,0.12235593471303274,YxEVoInr,"Daily caloric intake
+Body weight"
+1011,-0.45627653235414933,6,0.12923463342475244,YxEVoInr,"Amount of rainfall
+Number of sunny days"
+1012,0.9999107938385305,7,0.08836297713724539,YxEVoInr,"Number traffic violations
+Car insurance premium"
+1013,0.23868686708324738,2,0.40464418807036795,YxEVoInr,"Number of religious population
+racial diversity"
+1014,0.8515287663022453,5,0.3711615528718817,YxEVoInr,"IQ
+Income"
+1015,0.25455830433371585,6,0.3340794159675988,YxEVoInr,"Avg. hours on social media
+Depression severity"
+1016,-0.0042578653517359455,1,0.5544092582966658,YxEVoInr,"White blood cell count
+IQ"
+1017,-0.2528714203305928,6,0.33948812626058655,YxEVoInr,"Avg. hours on social media
+Avg. hours of sleep"
+1018,0.1921720154616391,6,0.44201556385132723,YxEVoInr,"College GPA
+Post-college income"
+1019,-0.23371467452288486,6,0.3466024972685066,YxEVoInr,"Homeless population
+Avg. education attainment"
+1020,1.0,6,0.054781132735237215,ONjjfk0J,"Years of education
+Income"
+1021,-0.00388107632330148,7,0.11777287138501524,ONjjfk0J,"Height
+College GPA"
+1022,-1.0,7,0.06741549455367624,ONjjfk0J,"Avg. hours on social media
+Avg. hours of sleep"
+1023,0.35493522220921125,6,0.3418685256520735,ONjjfk0J,"Daily calcium intake
+Avg. resting pulse"
+1024,0.4624098754305901,6,0.22117197843416903,ONjjfk0J,"Daily caloric intake
+Body weight"
+1025,0.7719293778855028,6,0.1750551637181219,ONjjfk0J,"SAT score
+College GPA"
+1026,1.0,7,0.054140316022445845,ONjjfk0J,"Yearly meat consumption
+Yearly carbon emissions"
+1027,0.22332250125964093,6,0.10373579749325512,ONjjfk0J,"Minimum wage
+Unemployment rate"
+1028,1.0,7,0.0,ONjjfk0J,"College GPA
+Post-college income"
+1029,1.0,7,0.12681181202528968,ONjjfk0J,"Homeless population
+Uninsured population"
+1030,0.16169673718187405,7,0.14631059946045055,ONjjfk0J,"Avg. hours on social media
+Depression severity"
+1031,1.0,6,0.03315674256856105,ONjjfk0J,"Crime severity
+Prison sentence duration"
+1032,0.33508687474139864,6,0.22027774793140908,ONjjfk0J,"Number of pedestrians
+No. Violent crimes"
+1033,0.12616350582234293,6,0.16597938242370436,ONjjfk0J,"White blood cell count
+IQ"
+1034,1.0,7,0.0,ONjjfk0J,"IQ
+Income"
+1035,-0.31188132970338517,7,0.1624196659762116,ONjjfk0J,"Number of religious population
+racial diversity"
+1036,-1.0,6,0.03963571559168466,ONjjfk0J,"Amount of rainfall
+Number of sunny days"
+1037,-0.017295448885077613,7,0.0,ONjjfk0J,"Median income
+Number of grocery stores"
+1038,0.5140999352072053,6,0.4044696905029077,ONjjfk0J,"Parental income
+Children's SAT scores"
+1039,-0.5108697464277012,5,0.19549450734710966,ONjjfk0J,"Homeless population
+Avg. education attainment"
+1040,0.7492268331318055,6,0.20018544518005177,ONjjfk0J,"Number traffic violations
+Car insurance premium"
+1041,0.9906728264178399,6,0.04697077041174991,ONjjfk0J,"Per capita gun ownership
+Shooting-related deaths"
+1042,0.014852240489841906,6,0.06764197287796508,ONjjfk0J,"Percent body fat
+Red blood cell count"
+1043,-0.7637803900909343,7,0.10986087951416734,ONjjfk0J,"Immigrant population
+Number of Domestic violence incidents"
+1044,0.18110403842245715,7,0.10973035408060938,ONjjfk0J,"Hours playing video games
+Aggression"
+1045,-1.0,7,0.05084915225979603,ONjjfk0J,"Immigrant population
+Crime rate"
+1046,-0.0029744189891687256,6,0.13876544119316375,ONjjfk0J,"Number of movies attended
+Amount red meat eaten"
+1047,-1.0,7,0.04000372378190997,ONjjfk0J,"Hours of TV watched in a month
+Number of books read in a month"
+1048,1.0,7,0.0,ONjjfk0J,"Annual carbon emissions
+Global temperature increase"
+1049,0.8124074875736735,5,0.14494218032171458,ONjjfk0J,"Proportion of residents in poverty
+Crime rate"
+1050,0.3229642231963825,3,0.5461549538082446,TpbmzvcP,"Annual carbon emissions
+Global temperature increase"
+1051,0.45669292002889583,3,0.5362670844515092,TpbmzvcP,"IQ
+Income"
+1052,0.2702479663287327,3,0.589270866401745,TpbmzvcP,"Height
+College GPA"
+1053,-0.013480063231994688,1,0.4336701006548478,TpbmzvcP,"White blood cell count
+IQ"
+1054,-1.0,3,0.0,TpbmzvcP,"Homeless population
+Avg. education attainment"
+1055,0.7760474796088772,5,0.4479050407822456,TpbmzvcP,"Homeless population
+Uninsured population"
+1056,0.5812984093232425,5,0.5131662903371421,TpbmzvcP,"Proportion of residents in poverty
+Crime rate"
+1057,0.2423755599892854,3,0.5186313445019084,TpbmzvcP,"SAT score
+College GPA"
+1058,-0.20777335962608806,4,0.4474906518502315,TpbmzvcP,"Immigrant population
+Number of Domestic violence incidents"
+1059,0.1510036489952833,3,0.30307268616501376,TpbmzvcP,"Immigrant population
+Crime rate"
+1060,0.5712387032744517,5,0.5665019507863827,TpbmzvcP,"Percent body fat
+Red blood cell count"
+1061,1.0,6,0.321282335861901,TpbmzvcP,"Yearly meat consumption
+Yearly carbon emissions"
+1062,0.3022094646062081,2,0.31141126344282943,TpbmzvcP,"Number of pedestrians
+No. Violent crimes"
+1063,0.401996001222497,3,0.0,TpbmzvcP,"Years of education
+Income"
+1064,0.7737213651757151,5,0.2727162526582054,TpbmzvcP,"Daily calcium intake
+Avg. resting pulse"
+1065,0.09098359239159404,5,0.282550065497808,TpbmzvcP,"Number of movies attended
+Amount red meat eaten"
+1066,-0.33440858218318525,5,0.45169711539719143,TpbmzvcP,"Avg. hours on social media
+Avg. hours of sleep"
+1067,-0.3012079727348916,4,0.38371475496418483,TpbmzvcP,"Number of religious population
+racial diversity"
+1068,0.23796836214203387,5,0.41021631706283634,TpbmzvcP,"Parental income
+Children's SAT scores"
+1069,-1.0,5,0.3473356928686977,TpbmzvcP,"Hours of TV watched in a month
+Number of books read in a month"
+1070,0.3468812681011548,5,0.5377854127458728,TpbmzvcP,"Minimum wage
+Unemployment rate"
+1071,0.44633883135042884,5,0.2504164742881214,TpbmzvcP,"Avg. hours on social media
+Depression severity"
+1072,-0.029881816634549807,5,0.3068759055782355,TpbmzvcP,"Hours playing video games
+Aggression"
+1073,-1.0,5,0.2421585315485988,TpbmzvcP,"Amount of rainfall
+Number of sunny days"
+1074,-0.03181898705731928,5,0.3565116473329464,TpbmzvcP,"College GPA
+Post-college income"
+1075,1.0,6,0.32713029615533573,TpbmzvcP,"Number traffic violations
+Car insurance premium"
+1076,0.8354775257787037,6,0.4051388403283118,TpbmzvcP,"Crime severity
+Prison sentence duration"
+1077,0.4935118558491287,5,0.4235484793478863,TpbmzvcP,"Median income
+Number of grocery stores"
+1078,0.6494372254295351,6,0.34109016222015565,TpbmzvcP,"Daily caloric intake
+Body weight"
+1079,0.9634184340472491,7,0.07316313190550128,TpbmzvcP,"Per capita gun ownership
+Shooting-related deaths"
+1080,1.0,1,2.0,8Vtlm5C2,"Hours of TV watched in a month
+Number of books read in a month"
+1081,-1.0,7,0.0,8Vtlm5C2,"Homeless population
+Uninsured population"
+1082,-1.0,7,0.0,8Vtlm5C2,"IQ
+Income"
+1083,-0.9934269465142038,5,0.2799573254445533,8Vtlm5C2,"Avg. hours on social media
+Depression severity"
+1084,0.0014974248494543652,7,0.05873419803511348,8Vtlm5C2,"Yearly meat consumption
+Yearly carbon emissions"
+1085,0.5030305351751747,5,0.9939389296496504,8Vtlm5C2,"Number of pedestrians
+No. Violent crimes"
+1086,0.011210028749807588,5,0.5791300297213144,8Vtlm5C2,"Number traffic violations
+Car insurance premium"
+1087,-1.0,7,0.013851281945676419,8Vtlm5C2,"Height
+College GPA"
+1088,1.0,6,0.35188197948515376,8Vtlm5C2,"Median income
+Number of grocery stores"
+1089,1.0,5,1.0152348331129506,8Vtlm5C2,"Hours playing video games
+Aggression"
+1090,-1.0,7,0.0,8Vtlm5C2,"Proportion of residents in poverty
+Crime rate"
+1091,1.0,7,0.013364824034252099,8Vtlm5C2,"Number of movies attended
+Amount red meat eaten"
+1092,-1.0,7,0.0010099348378420636,8Vtlm5C2,"White blood cell count
+IQ"
+1093,-1.0,7,0.051144984317409214,8Vtlm5C2,"College GPA
+Post-college income"
+1094,0.8557818189643014,1,2.0,8Vtlm5C2,"Daily calcium intake
+Avg. resting pulse"
+1095,-1.0,7,0.0,8Vtlm5C2,"Annual carbon emissions
+Global temperature increase"
+1096,1.0,7,0.0,8Vtlm5C2,"Immigrant population
+Crime rate"
+1097,-1.0,7,0.0,8Vtlm5C2,"Crime severity
+Prison sentence duration"
+1098,0.8797734884196484,7,0.009892094780225458,8Vtlm5C2,"Minimum wage
+Unemployment rate"
+1099,1.0,6,0.26439677220337154,8Vtlm5C2,"Homeless population
+Avg. education attainment"
+1100,-1.0,7,0.0,8Vtlm5C2,"Per capita gun ownership
+Shooting-related deaths"
+1101,-0.9766481695558737,7,0.011838055572371387,8Vtlm5C2,"Years of education
+Income"
+1102,-1.0,7,0.0,8Vtlm5C2,"SAT score
+College GPA"
+1103,-0.9950069293416777,7,0.0,8Vtlm5C2,"Number of religious population
+racial diversity"
+1104,-0.00113219949999821,1,2.0,8Vtlm5C2,"Percent body fat
+Red blood cell count"
+1105,-0.1731027526445874,5,0.32786166519336,8Vtlm5C2,"Amount of rainfall
+Number of sunny days"
+1106,0.9930381896969374,7,0.0,8Vtlm5C2,"Immigrant population
+Number of Domestic violence incidents"
+1107,0.31306263736050766,6,0.2471400552224572,8Vtlm5C2,"Parental income
+Children's SAT scores"
+1108,1.0,7,0.0,8Vtlm5C2,"Daily caloric intake
+Body weight"
+1109,0.9682556958822146,7,0.028420353653768604,8Vtlm5C2,"Avg. hours on social media
+Avg. hours of sleep"
+1110,-0.3791730771021429,5,0.33828837105229836,1qRDsdHy,"Percent body fat
+Red blood cell count"
+1111,-0.8698987321004488,7,0.0,1qRDsdHy,"Amount of rainfall
+Number of sunny days"
+1112,0.1282150672209228,6,0.3170914206484618,1qRDsdHy,"IQ
+Income"
+1113,-0.2111869267989182,6,0.2631283374950016,1qRDsdHy,"Minimum wage
+Unemployment rate"
+1114,0.23965665718506246,3,0.21869048851747652,1qRDsdHy,"Yearly meat consumption
+Yearly carbon emissions"
+1115,0.9818714656920438,7,0.0,1qRDsdHy,"Crime severity
+Prison sentence duration"
+1116,-0.014202454039173196,7,0.0,1qRDsdHy,"Number of pedestrians
+No. Violent crimes"
+1117,0.11737901110437332,6,0.3139977888042156,1qRDsdHy,"Parental income
+Children's SAT scores"
+1118,0.11588250198859051,7,0.19524343944699618,1qRDsdHy,"Hours playing video games
+Aggression"
+1119,1.0,7,0.09895896945475147,1qRDsdHy,"Daily caloric intake
+Body weight"
+1120,-1.0,7,0.0,1qRDsdHy,"Height
+College GPA"
+1121,-1.0,6,0.21698598326449914,1qRDsdHy,"Hours of TV watched in a month
+Number of books read in a month"
+1122,-0.008441974267893004,7,0.0,1qRDsdHy,"Number of religious population
+racial diversity"
+1123,0.6836112715199631,6,0.3635665840012021,1qRDsdHy,"Homeless population
+Uninsured population"
+1124,0.0019018745445724683,7,0.023628424822603744,1qRDsdHy,"Immigrant population
+Number of Domestic violence incidents"
+1125,0.7260375051334764,7,0.3383723669348975,1qRDsdHy,"Years of education
+Income"
+1126,0.002129563348682195,7,0.0,1qRDsdHy,"Number of movies attended
+Amount red meat eaten"
+1127,-0.006559680254349276,7,0.0,1qRDsdHy,"White blood cell count
+IQ"
+1128,0.6105205808127314,6,0.2857654993552403,1qRDsdHy,"College GPA
+Post-college income"
+1129,0.3618994361949879,6,0.32627858926327336,1qRDsdHy,"SAT score
+College GPA"
+1130,0.942277897019405,7,0.11544420596119043,1qRDsdHy,"Number traffic violations
+Car insurance premium"
+1131,0.5151784648982509,5,0.33334460766652985,1qRDsdHy,"Proportion of residents in poverty
+Crime rate"
+1132,-0.006144517281720996,6,0.1288540715892985,1qRDsdHy,"Per capita gun ownership
+Shooting-related deaths"
+1133,-0.00622329189760551,7,0.0,1qRDsdHy,"Median income
+Number of grocery stores"
+1134,-0.006345315227932691,7,0.0,1qRDsdHy,"Homeless population
+Avg. education attainment"
+1135,-0.006649537265097649,7,0.1779939429755008,1qRDsdHy,"Avg. hours on social media
+Avg. hours of sleep"
+1136,-0.006515656325849717,6,0.0,1qRDsdHy,"Avg. hours on social media
+Depression severity"
+1137,0.6326273016124635,6,0.1433123324677399,1qRDsdHy,"Annual carbon emissions
+Global temperature increase"
+1138,-0.006429357718917783,7,0.0,1qRDsdHy,"Immigrant population
+Crime rate"
+1139,0.2955361633561917,3,0.1387009480479524,1qRDsdHy,"Daily calcium intake
+Avg. resting pulse"
+1140,0.21781175545685016,5,0.4732452717881921,lzrNPx4b,"Height
+College GPA"
+1141,0.7751150429748861,6,0.4774829705635859,lzrNPx4b,"Yearly meat consumption
+Yearly carbon emissions"
+1142,0.31087968171852354,5,0.35205040033894974,lzrNPx4b,"Number of religious population
+racial diversity"
+1143,0.6888537382542308,4,0.6787062700479012,lzrNPx4b,"Years of education
+Income"
+1144,-0.3129050613300533,7,0.2482474742179956,lzrNPx4b,"Hours of TV watched in a month
+Number of books read in a month"
+1145,0.6419240392646823,6,0.522452901571423,lzrNPx4b,"Avg. hours on social media
+Depression severity"
+1146,0.2891049434333708,5,0.696564186514155,lzrNPx4b,"Parental income
+Children's SAT scores"
+1147,0.599980040204831,5,0.4647163735402162,lzrNPx4b,"Number traffic violations
+Car insurance premium"
+1148,-0.14580221601218707,2,0.4061595930043423,lzrNPx4b,"Percent body fat
+Red blood cell count"
+1149,0.11147201648562799,3,0.6585675438849563,lzrNPx4b,"IQ
+Income"
+1150,0.4553519468428153,4,0.6153581954512122,lzrNPx4b,"Number of pedestrians
+No. Violent crimes"
+1151,0.09607589512679438,2,0.8308888049197651,lzrNPx4b,"Immigrant population
+Crime rate"
+1152,-0.5366976940975225,6,0.96639092250193,lzrNPx4b,"Avg. hours on social media
+Avg. hours of sleep"
+1153,0.1598953142705919,2,0.8656115397196551,lzrNPx4b,"Immigrant population
+Number of Domestic violence incidents"
+1154,0.28014028763553656,5,0.8369776643673081,lzrNPx4b,"Daily caloric intake
+Body weight"
+1155,-0.32526451158907804,4,0.5134774456461426,lzrNPx4b,"Crime severity
+Prison sentence duration"
+1156,0.5614021889888692,5,0.5086758576783659,lzrNPx4b,"Homeless population
+Uninsured population"
+1157,0.31515906002941074,5,0.5390499526285342,lzrNPx4b,"College GPA
+Post-college income"
+1158,0.9668972123212691,7,0.17802736917457818,lzrNPx4b,"Annual carbon emissions
+Global temperature increase"
+1159,0.6935080815864052,6,0.4426306385495351,lzrNPx4b,"Minimum wage
+Unemployment rate"
+1160,-0.21227787484075472,5,0.4080739145335955,lzrNPx4b,"Hours playing video games
+Aggression"
+1161,0.20003900272358455,4,0.41677598965413765,lzrNPx4b,"Median income
+Number of grocery stores"
+1162,-0.26727796756419636,1,0.7692077152880799,lzrNPx4b,"Daily calcium intake
+Avg. resting pulse"
+1163,0.7460293325876055,6,0.7615809044886654,lzrNPx4b,"SAT score
+College GPA"
+1164,0.0935146632840822,1,1.5714870649702648,lzrNPx4b,"White blood cell count
+IQ"
+1165,0.904274414396258,6,0.5780527980473296,lzrNPx4b,"Per capita gun ownership
+Shooting-related deaths"
+1166,-0.29035565487323906,6,0.494423025705839,lzrNPx4b,"Amount of rainfall
+Number of sunny days"
+1167,-0.24044970846424413,3,0.46441758178057446,lzrNPx4b,"Homeless population
+Avg. education attainment"
+1168,0.2660058082992749,4,0.7931099155352805,lzrNPx4b,"Proportion of residents in poverty
+Crime rate"
+1169,0.05176425624230707,3,0.5585231867693596,lzrNPx4b,"Number of movies attended
+Amount red meat eaten"
+1170,1.0,1,1.3777798767475278,X07cJNn2,"Percent body fat
+Red blood cell count"
+1171,0.5014890906194358,1,1.761496343185427,X07cJNn2,"Hours of TV watched in a month
+Number of books read in a month"
+1172,0.7023889388055313,1,0.8500183380095634,X07cJNn2,"Height
+College GPA"
+1173,0.7387405747103202,1,0.5225188505793597,X07cJNn2,"White blood cell count
+IQ"
+1174,1.0,1,0.6692993399302101,X07cJNn2,"Median income
+Number of grocery stores"
+1175,0.18726597825512603,1,1.8743888114286604,X07cJNn2,"Avg. hours on social media
+Avg. hours of sleep"
+1176,0.3693501536420456,1,1.2612996927159088,X07cJNn2,"Number of movies attended
+Amount red meat eaten"
+1177,0.6609973621542717,1,0.6780052756914567,X07cJNn2,"Parental income
+Children's SAT scores"
+1178,1.0,1,2.0,X07cJNn2,"Daily caloric intake
+Body weight"
+1179,1.0,1,0.0,X07cJNn2,"Daily calcium intake
+Avg. resting pulse"
+1180,1.0,1,0.48596842634161197,X07cJNn2,"Number of religious population
+racial diversity"
+1181,0.17451807337729375,1,2.0,X07cJNn2,"Homeless population
+Avg. education attainment"
+1182,0.6967280370412436,1,1.432000773959471,X07cJNn2,"Avg. hours on social media
+Depression severity"
+1183,0.6276033593446284,1,2.0,X07cJNn2,"Number of pedestrians
+No. Violent crimes"
+1184,0.2861111457691661,1,0.2761644408818811,X07cJNn2,"Immigrant population
+Crime rate"
+1185,-1.0,1,1.2183938669147358,X07cJNn2,"SAT score
+College GPA"
+1186,-0.5401010947985938,1,0.9197978104028124,X07cJNn2,"College GPA
+Post-college income"
+1187,-1.0,1,0.7975748106605007,X07cJNn2,"Crime severity
+Prison sentence duration"
+1188,0.017089437390623186,1,1.5927720605719542,X07cJNn2,"Annual carbon emissions
+Global temperature increase"
+1189,0.4116034876349486,1,1.556970911125497,X07cJNn2,"Yearly meat consumption
+Yearly carbon emissions"
+1190,-0.6490102559207813,1,0.6116895518384708,X07cJNn2,"Homeless population
+Uninsured population"
+1191,1.0,1,0.7027902118917524,X07cJNn2,"Minimum wage
+Unemployment rate"
+1192,0.5275431297339597,1,1.1722617589843713,X07cJNn2,"Per capita gun ownership
+Shooting-related deaths"
+1193,0.4717913586676947,1,2.0,X07cJNn2,"Immigrant population
+Number of Domestic violence incidents"
+1194,0.8074196018348105,1,1.1625219695118147,X07cJNn2,"IQ
+Income"
+1195,0.33357950173314066,1,1.646185090181824,X07cJNn2,"Hours playing video games
+Aggression"
+1196,0.428929031922076,1,1.7347408516953517,X07cJNn2,"Proportion of residents in poverty
+Crime rate"
+1197,,1,0.0,X07cJNn2,"Number traffic violations
+Car insurance premium"
+1198,0.7486681672439952,1,1.4372857226934357,X07cJNn2,"Amount of rainfall
+Number of sunny days"
+1199,0.0,1,0.9218483510416622,X07cJNn2,"Years of education
+Income"
+1200,1.0,2,2.0,JHTbgUaD,"White blood cell count
+IQ"
+1201,1.0,6,0.06961421057069961,JHTbgUaD,"Per capita gun ownership
+Shooting-related deaths"
+1202,1.0,6,0.21646100188024908,JHTbgUaD,"Number traffic violations
+Car insurance premium"
+1203,1.0,5,0.18844939247636217,JHTbgUaD,"Daily caloric intake
+Body weight"
+1204,1.0,5,0.22081658755652467,JHTbgUaD,"IQ
+Income"
+1205,1.0,6,0.3753229363372377,JHTbgUaD,"Number of movies attended
+Amount red meat eaten"
+1206,-1.0,5,0.32283124982212796,JHTbgUaD,"Hours of TV watched in a month
+Number of books read in a month"
+1207,1.0,5,0.3145988050844233,JHTbgUaD,"Median income
+Number of grocery stores"
+1208,1.0,5,0.24529184227265377,JHTbgUaD,"Avg. hours on social media
+Depression severity"
+1209,0.008180748985040065,1,1.578139083072856,JHTbgUaD,"Hours playing video games
+Aggression"
+1210,0.3515630883487424,2,2.0,JHTbgUaD,"Immigrant population
+Crime rate"
+1211,0.30347061192643987,2,1.5266962328873186,JHTbgUaD,"Avg. hours on social media
+Avg. hours of sleep"
+1212,1.0,6,0.20779520823586184,JHTbgUaD,"Years of education
+Income"
+1213,0.19471650511405358,1,1.6689476445138476,JHTbgUaD,"Annual carbon emissions
+Global temperature increase"
+1214,0.6958410899627139,5,0.5038949222026436,JHTbgUaD,"Yearly meat consumption
+Yearly carbon emissions"
+1215,0.21580990960260582,2,1.0856155953060223,JHTbgUaD,"Immigrant population
+Number of Domestic violence incidents"
+1216,0.37282786931170264,5,0.888337594604361,JHTbgUaD,"Amount of rainfall
+Number of sunny days"
+1217,0.2921685564988057,5,0.48244435097907035,JHTbgUaD,"Height
+College GPA"
+1218,0.5300892174538956,4,0.5030910243362523,JHTbgUaD,"Percent body fat
+Red blood cell count"
+1219,0.34709285073456164,4,0.5234975915169964,JHTbgUaD,"Number of pedestrians
+No. Violent crimes"
+1220,0.6476030255727896,5,0.5584654837275675,JHTbgUaD,"SAT score
+College GPA"
+1221,0.577538524085178,5,0.4046776583406484,JHTbgUaD,"Proportion of residents in poverty
+Crime rate"
+1222,0.4331643239149805,5,0.5810492375971261,JHTbgUaD,"College GPA
+Post-college income"
+1223,0.03660531233524278,2,0.7551750872755196,JHTbgUaD,"Crime severity
+Prison sentence duration"
+1224,0.40219654816536243,5,0.4737935258826871,JHTbgUaD,"Homeless population
+Uninsured population"
+1225,1.0,6,0.21157263389256964,JHTbgUaD,"Parental income
+Children's SAT scores"
+1226,0.35611281357725844,5,0.3015762486363798,JHTbgUaD,"Homeless population
+Avg. education attainment"
+1227,-0.2649680016271696,4,0.36238066873701474,JHTbgUaD,"Number of religious population
+racial diversity"
+1228,0.36612104397925593,2,1.0474448302638635,JHTbgUaD,"Daily calcium intake
+Avg. resting pulse"
+1229,0.8127764729683014,5,0.5240522090536395,JHTbgUaD,"Minimum wage
+Unemployment rate"
+1230,0.27481169471580524,3,0.23082504126010073,jHKGnLxv,"Parental income
+Children's SAT scores"
+1231,0.6329024448692524,2,0.4410986116628288,jHKGnLxv,"Hours playing video games
+Aggression"
+1232,0.9752762379654791,6,0.1367098517007186,jHKGnLxv,"Amount of rainfall
+Number of sunny days"
+1233,-0.0194051574406941,2,0.7749455820412301,jHKGnLxv,"Percent body fat
+Red blood cell count"
+1234,-0.015813900938179304,7,0.06446437850703757,jHKGnLxv,"SAT score
+College GPA"
+1235,1.0,7,0.056081145386852826,jHKGnLxv,"Crime severity
+Prison sentence duration"
+1236,0.6964455867705435,3,0.21900966989453963,jHKGnLxv,"Number of pedestrians
+No. Violent crimes"
+1237,-0.015714452573536652,7,0.03202958757825963,jHKGnLxv,"Number of movies attended
+Amount red meat eaten"
+1238,-0.023720301812961198,3,0.2163861752807244,jHKGnLxv,"White blood cell count
+IQ"
+1239,-0.16719812376085258,3,0.23455686990654828,jHKGnLxv,"Immigrant population
+Number of Domestic violence incidents"
+1240,1.0,7,0.0,jHKGnLxv,"Annual carbon emissions
+Global temperature increase"
+1241,0.00031009255338210195,3,0.49609036008562546,jHKGnLxv,"IQ
+Income"
+1242,0.17868319341259498,5,0.3365793589926418,jHKGnLxv,"Immigrant population
+Crime rate"
+1243,-0.29209579772542554,5,0.422820169374319,jHKGnLxv,"Minimum wage
+Unemployment rate"
+1244,-0.3797250461147689,6,0.45991091973023884,jHKGnLxv,"Hours of TV watched in a month
+Number of books read in a month"
+1245,0.00836060008110473,5,0.2727353578830496,jHKGnLxv,"College GPA
+Post-college income"
+1246,0.2797149254472613,2,0.3916258616011836,jHKGnLxv,"Median income
+Number of grocery stores"
+1247,0.00836060008110473,1,0.8291920772164414,jHKGnLxv,"Daily calcium intake
+Avg. resting pulse"
+1248,0.31222855820187845,6,0.22716293987807923,jHKGnLxv,"Years of education
+Income"
+1249,0.9789338550266575,5,0.08684035401449886,jHKGnLxv,"Number traffic violations
+Car insurance premium"
+1250,0.2636146562658743,5,0.2532191181599628,jHKGnLxv,"Proportion of residents in poverty
+Crime rate"
+1251,-0.4038931261276337,5,0.20480423199343928,jHKGnLxv,"Number of religious population
+racial diversity"
+1252,-0.8190675461566306,5,0.268090309886879,jHKGnLxv,"Avg. hours on social media
+Avg. hours of sleep"
+1253,0.483081680273701,6,0.23046711723027236,jHKGnLxv,"Yearly meat consumption
+Yearly carbon emissions"
+1254,0.6078006889233105,5,0.38295626671100824,jHKGnLxv,"Homeless population
+Uninsured population"
+1255,1.0,7,0.15736790732302608,jHKGnLxv,"Avg. hours on social media
+Depression severity"
+1256,0.00030224210929130635,7,0.0,jHKGnLxv,"Height
+College GPA"
+1257,0.8621337441424604,7,0.22631914239478057,jHKGnLxv,"Daily caloric intake
+Body weight"
+1258,-0.5030213036858666,4,0.2535908154844757,jHKGnLxv,"Homeless population
+Avg. education attainment"
+1259,0.2023165567504075,3,0.19935238683351852,jHKGnLxv,"Per capita gun ownership
+Shooting-related deaths"
+1260,0.45287701839798666,6,0.2724171326833098,BpiTLuK2,"Minimum wage
+Unemployment rate"
+1261,0.8395158261578242,7,0.29880938357275744,BpiTLuK2,"Homeless population
+Uninsured population"
+1262,-0.8758934088511483,7,0.2654411992490142,BpiTLuK2,"Avg. hours on social media
+Avg. hours of sleep"
+1263,0.39323348902429234,5,1.107661130250805,BpiTLuK2,"Years of education
+Income"
+1264,0.7508415222694851,6,0.32339956314308793,BpiTLuK2,"Proportion of residents in poverty
+Crime rate"
+1265,-0.8437409119684671,7,0.26044755098095385,BpiTLuK2,"Amount of rainfall
+Number of sunny days"
+1266,-0.35666340453594,3,0.9882189841047389,BpiTLuK2,"Number of movies attended
+Amount red meat eaten"
+1267,0.187593019134763,3,0.9272863621533489,BpiTLuK2,"Per capita gun ownership
+Shooting-related deaths"
+1268,0.26859419188347267,2,0.8630695915311173,BpiTLuK2,"Immigrant population
+Crime rate"
+1269,0.7508415222694851,6,0.7605488279693668,BpiTLuK2,"IQ
+Income"
+1270,0.8501444497017325,7,0.2906760217868811,BpiTLuK2,"Daily caloric intake
+Body weight"
+1271,0.9363818957925325,7,0.20424385473958506,BpiTLuK2,"Annual carbon emissions
+Global temperature increase"
+1272,0.7617682866978948,6,0.5060919047149361,BpiTLuK2,"College GPA
+Post-college income"
+1273,0.7574619370458284,6,0.4368639618226191,BpiTLuK2,"SAT score
+College GPA"
+1274,0.17046988253674877,5,0.5443597434749128,BpiTLuK2,"Immigrant population
+Number of Domestic violence incidents"
+1275,0.3279689238250165,5,1.0919387284552178,BpiTLuK2,"Crime severity
+Prison sentence duration"
+1276,-1.0,7,0.08631303208618535,BpiTLuK2,"Hours of TV watched in a month
+Number of books read in a month"
+1277,-0.2701655288844411,4,1.6703620689404393,BpiTLuK2,"White blood cell count
+IQ"
+1278,-0.07751668029528469,4,1.7898229999783601,BpiTLuK2,"Height
+College GPA"
+1279,0.8142022263368556,6,0.38935968850313674,BpiTLuK2,"Homeless population
+Avg. education attainment"
+1280,-0.24457072644436706,4,1.3105478813068365,BpiTLuK2,"Daily calcium intake
+Avg. resting pulse"
+1281,0.8208597535404194,6,0.3890709700008832,BpiTLuK2,"Number of religious population
+racial diversity"
+1282,0.8767421500594745,6,0.456778881205941,BpiTLuK2,"Yearly meat consumption
+Yearly carbon emissions"
+1283,0.7284169417546797,6,0.41109350227411157,BpiTLuK2,"Median income
+Number of grocery stores"
+1284,0.1031816891939148,4,1.5891619712213758,BpiTLuK2,"Percent body fat
+Red blood cell count"
+1285,0.41045239710710124,5,0.9206398678152548,BpiTLuK2,"Avg. hours on social media
+Depression severity"
+1286,0.8708450828634744,7,0.22018212265031223,BpiTLuK2,"Number traffic violations
+Car insurance premium"
+1287,0.8687524196939889,7,0.2365426970508595,BpiTLuK2,"Hours playing video games
+Aggression"
+1288,0.8009625771328457,6,0.6863306546186128,BpiTLuK2,"Number of pedestrians
+No. Violent crimes"
+1289,0.8294560107356903,6,0.5644210899978943,BpiTLuK2,"Parental income
+Children's SAT scores"
+1290,0.8092014597376671,5,0.19840418852719366,8L1xGaXW,"Hours playing video games
+Aggression"
+1291,0.31878292398305463,6,0.26598291050747647,8L1xGaXW,"Avg. hours on social media
+Avg. hours of sleep"
+1292,0.36308902346234806,5,0.22197943338311354,8L1xGaXW,"Number of religious population
+racial diversity"
+1293,0.9265688467574238,6,0.21265727509940957,8L1xGaXW,"Number of pedestrians
+No. Violent crimes"
+1294,0.9967928542772742,7,0.06797105720212926,8L1xGaXW,"Daily caloric intake
+Body weight"
+1295,0.6229305164681942,5,0.5642539504679771,8L1xGaXW,"White blood cell count
+IQ"
+1296,0.6059882664101792,6,0.14697702283910585,8L1xGaXW,"Proportion of residents in poverty
+Crime rate"
+1297,1.0,4,0.04731978925320157,8L1xGaXW,"Homeless population
+Uninsured population"
+1298,0.39636531518616724,5,0.17835697582496612,8L1xGaXW,"Crime severity
+Prison sentence duration"
+1299,0.67059336750553,5,0.24712494575158384,8L1xGaXW,"Homeless population
+Avg. education attainment"
+1300,0.7276563689652942,6,0.11770248126004978,8L1xGaXW,"Median income
+Number of grocery stores"
+1301,0.2304101202754456,6,0.21593685123302886,8L1xGaXW,"Minimum wage
+Unemployment rate"
+1302,0.897884368894641,5,0.2652591483046485,8L1xGaXW,"Immigrant population
+Number of Domestic violence incidents"
+1303,-0.009609172611948491,7,0.01892830055528133,8L1xGaXW,"Height
+College GPA"
+1304,0.0,7,0.05721461962333502,8L1xGaXW,"Number of movies attended
+Amount red meat eaten"
+1305,0.7772984470729745,6,0.18751982901400077,8L1xGaXW,"Years of education
+Income"
+1306,0.6229305164681942,6,0.10956324159616249,8L1xGaXW,"Per capita gun ownership
+Shooting-related deaths"
+1307,-0.010744382464228097,5,0.08186476488377936,8L1xGaXW,"Percent body fat
+Red blood cell count"
+1308,1.0,7,0.05950681426409843,8L1xGaXW,"Annual carbon emissions
+Global temperature increase"
+1309,0.137766998066422,6,0.1957331985234465,8L1xGaXW,"Amount of rainfall
+Number of sunny days"
+1310,0.18696922041299113,6,0.10185464687342405,8L1xGaXW,"Hours of TV watched in a month
+Number of books read in a month"
+1311,0.8870589310031152,6,0.12146424186253535,8L1xGaXW,"SAT score
+College GPA"
+1312,0.008187922785282131,6,0.09718931065731257,8L1xGaXW,"Parental income
+Children's SAT scores"
+1313,0.008459938920594823,5,0.11512758725202521,8L1xGaXW,"Immigrant population
+Crime rate"
+1314,1.0,6,0.02598087395349813,8L1xGaXW,"College GPA
+Post-college income"
+1315,0.3608631473264954,4,0.1648903964684787,8L1xGaXW,"Number traffic violations
+Car insurance premium"
+1316,0.21640167038847768,4,0.23541484346883035,8L1xGaXW,"Daily calcium intake
+Avg. resting pulse"
+1317,1.0,7,0.1393943400720039,8L1xGaXW,"Avg. hours on social media
+Depression severity"
+1318,0.3032877711549331,5,0.13999634926531956,8L1xGaXW,"Yearly meat consumption
+Yearly carbon emissions"
+1319,1.0,7,0.04195973348313187,8L1xGaXW,"IQ
+Income"
+1320,1.0,6,0.37640397839934114,WAxEEN0Z,"SAT score
+College GPA"
+1321,0.31222855820187845,5,0.506408831880431,WAxEEN0Z,"Median income
+Number of grocery stores"
+1322,-0.018645867222411683,5,0.924319830059511,WAxEEN0Z,"Homeless population
+Uninsured population"
+1323,0.7314750458501691,5,0.5370499082996614,WAxEEN0Z,"Parental income
+Children's SAT scores"
+1324,1.0,6,0.07718663616316479,WAxEEN0Z,"Crime severity
+Prison sentence duration"
+1325,0.6573568209370981,6,0.40053031762984515,WAxEEN0Z,"Number traffic violations
+Car insurance premium"
+1326,-1.0,6,0.14769506213036587,WAxEEN0Z,"Immigrant population
+Crime rate"
+1327,-1.0,6,0.21420143704064976,WAxEEN0Z,"Hours of TV watched in a month
+Number of books read in a month"
+1328,-1.0,6,0.32284488762417185,WAxEEN0Z,"Avg. hours on social media
+Avg. hours of sleep"
+1329,0.48980824689710745,6,0.4600397560639289,WAxEEN0Z,"Percent body fat
+Red blood cell count"
+1330,-0.024490254529260014,5,0.48797126286243264,WAxEEN0Z,"Number of movies attended
+Amount red meat eaten"
+1331,0.4246277607642879,5,1.0737988466757582,WAxEEN0Z,"Yearly meat consumption
+Yearly carbon emissions"
+1332,1.0,7,0.0,WAxEEN0Z,"Annual carbon emissions
+Global temperature increase"
+1333,0.3421909339347142,6,0.7176962982549637,WAxEEN0Z,"IQ
+Income"
+1334,0.37140716703003873,5,0.0,WAxEEN0Z,"Proportion of residents in poverty
+Crime rate"
+1335,0.5478164870159736,6,0.0,WAxEEN0Z,"Hours playing video games
+Aggression"
+1336,0.5072846386663261,4,0.11996964517064335,WAxEEN0Z,"Daily calcium intake
+Avg. resting pulse"
+1337,0.0003061170079801112,4,0.0,WAxEEN0Z,"Amount of rainfall
+Number of sunny days"
+1338,1.0,7,0.0,WAxEEN0Z,"Per capita gun ownership
+Shooting-related deaths"
+1339,-0.6348472249408001,6,0.14932248249480162,WAxEEN0Z,"Homeless population
+Avg. education attainment"
+1340,1.0,7,0.0,WAxEEN0Z,"Daily caloric intake
+Body weight"
+1341,-1.0,6,0.0,WAxEEN0Z,"Immigrant population
+Number of Domestic violence incidents"
+1342,0.8608444370785429,6,0.0,WAxEEN0Z,"Minimum wage
+Unemployment rate"
+1343,0.14442545542572027,6,0.0,WAxEEN0Z,"Avg. hours on social media
+Depression severity"
+1344,-1.0,7,0.0,WAxEEN0Z,"Height
+College GPA"
+1345,0.4763284520444684,6,0.016927782360285804,WAxEEN0Z,"Years of education
+Income"
+1346,0.00032933967655179863,5,0.0,WAxEEN0Z,"Number of pedestrians
+No. Violent crimes"
+1347,-0.007855575261601189,6,0.0,WAxEEN0Z,"College GPA
+Post-college income"
+1348,-0.00795759307991406,5,0.0,WAxEEN0Z,"White blood cell count
+IQ"
+1349,0.18906722231356632,5,0.0,WAxEEN0Z,"Number of religious population
+racial diversity"
+1350,-0.0542363983502554,5,0.21911959323380642,jK4MQ7cl,"Hours playing video games
+Aggression"
+1351,1.0,5,0.18812439008848014,jK4MQ7cl,"Number traffic violations
+Car insurance premium"
+1352,0.8752532215661537,5,0.28836493066693447,jK4MQ7cl,"Yearly meat consumption
+Yearly carbon emissions"
+1353,0.005418007913424061,6,0.1847542169373993,jK4MQ7cl,"Height
+College GPA"
+1354,1.0,2,0.7229171495565532,jK4MQ7cl,"Avg. hours on social media
+Avg. hours of sleep"
+1355,-0.550852255401951,1,1.012125724298127,jK4MQ7cl,"Minimum wage
+Unemployment rate"
+1356,1.0,3,0.6351220723737412,jK4MQ7cl,"Proportion of residents in poverty
+Crime rate"
+1357,0.353814909818176,4,0.6517599344890401,jK4MQ7cl,"Immigrant population
+Crime rate"
+1358,-0.45814644947718847,2,1.020010517788314,jK4MQ7cl,"Homeless population
+Avg. education attainment"
+1359,0.5207595641018818,3,0.5102087814262937,jK4MQ7cl,"Years of education
+Income"
+1360,-0.36604334674944083,2,0.9945818541109037,jK4MQ7cl,"Number of religious population
+racial diversity"
+1361,0.4655960995524784,1,1.2906471951125962,jK4MQ7cl,"Immigrant population
+Number of Domestic violence incidents"
+1362,1.0,3,0.7065349337407008,jK4MQ7cl,"SAT score
+College GPA"
+1363,-0.00412050194097624,5,0.31802869424960795,jK4MQ7cl,"Number of movies attended
+Amount red meat eaten"
+1364,0.7323872190470007,3,0.7041995740251727,jK4MQ7cl,"Crime severity
+Prison sentence duration"
+1365,0.6143550080830815,1,1.5037024791608145,jK4MQ7cl,"Percent body fat
+Red blood cell count"
+1366,1.0,5,0.6314704793028447,jK4MQ7cl,"Avg. hours on social media
+Depression severity"
+1367,0.9905337094079301,6,0.9317843594949702,jK4MQ7cl,"Annual carbon emissions
+Global temperature increase"
+1368,0.07869946364623126,5,0.29469476619630863,jK4MQ7cl,"Daily calcium intake
+Avg. resting pulse"
+1369,0.7496843198971559,5,0.6231686864161969,jK4MQ7cl,"Parental income
+Children's SAT scores"
+1370,0.4934940540511523,3,0.5890456802074533,jK4MQ7cl,"IQ
+Income"
+1371,0.43128959945994083,1,1.7244067596284156,jK4MQ7cl,"White blood cell count
+IQ"
+1372,0.38105821958659947,4,0.7533656863700027,jK4MQ7cl,"Number of pedestrians
+No. Violent crimes"
+1373,1.0,5,0.7503749216436075,jK4MQ7cl,"Amount of rainfall
+Number of sunny days"
+1374,1.0,6,0.518171297483446,jK4MQ7cl,"Daily caloric intake
+Body weight"
+1375,1.0,5,0.863660620176167,jK4MQ7cl,"Median income
+Number of grocery stores"
+1376,1.0,5,0.8472842512525789,jK4MQ7cl,"Homeless population
+Uninsured population"
+1377,1.0,5,0.8019754116794937,jK4MQ7cl,"Hours of TV watched in a month
+Number of books read in a month"
+1378,0.4126128378949814,3,1.378553852099512,jK4MQ7cl,"College GPA
+Post-college income"
+1379,0.43222056327970027,4,0.8894876541511343,jK4MQ7cl,"Per capita gun ownership
+Shooting-related deaths"
+1380,0.3395579101806674,5,0.24314683156671224,qAIhAdaI,"Parental income
+Children's SAT scores"
+1381,0.14479334238643582,5,0.10436654147273172,qAIhAdaI,"Daily calcium intake
+Avg. resting pulse"
+1382,0.5699030923549291,6,0.4865044204296649,qAIhAdaI,"Yearly meat consumption
+Yearly carbon emissions"
+1383,0.46421545093130745,5,0.23997165338000537,qAIhAdaI,"Minimum wage
+Unemployment rate"
+1384,0.00485966932051074,6,0.03743229203738868,qAIhAdaI,"Hours playing video games
+Aggression"
+1385,0.21512886354189065,5,0.2403563596344811,qAIhAdaI,"Number of pedestrians
+No. Violent crimes"
+1386,-0.6278408055893399,6,0.7443183888213203,qAIhAdaI,"Height
+College GPA"
+1387,1.0,6,0.16896516472843937,qAIhAdaI,"Annual carbon emissions
+Global temperature increase"
+1388,0.00656303230993438,6,0.0011798471756303552,qAIhAdaI,"Number of movies attended
+Amount red meat eaten"
+1389,0.13785439781537412,5,0.37553415851143734,qAIhAdaI,"Per capita gun ownership
+Shooting-related deaths"
+1390,0.47351971823367855,5,0.2146472607896448,qAIhAdaI,"Percent body fat
+Red blood cell count"
+1391,-1.0,7,0.0,qAIhAdaI,"Immigrant population
+Number of Domestic violence incidents"
+1392,0.5553401358072181,6,0.323519052950932,qAIhAdaI,"Homeless population
+Avg. education attainment"
+1393,-0.457819189024637,6,0.8909958012821222,qAIhAdaI,"SAT score
+College GPA"
+1394,0.00684530794221927,5,0.002009601073926115,qAIhAdaI,"White blood cell count
+IQ"
+1395,0.4248363183751742,6,0.298231813310315,qAIhAdaI,"Hours of TV watched in a month
+Number of books read in a month"
+1396,0.1854695702782938,4,0.13488463013514207,qAIhAdaI,"Homeless population
+Uninsured population"
+1397,0.0033683507259625323,4,0.2655341990887397,qAIhAdaI,"Amount of rainfall
+Number of sunny days"
+1398,-0.4631895089433704,6,0.6698778299043067,qAIhAdaI,"Immigrant population
+Crime rate"
+1399,0.4009285268020346,5,0.19036209811322613,qAIhAdaI,"Crime severity
+Prison sentence duration"
+1400,0.18478057237315304,6,0.8001904824686847,qAIhAdaI,"Avg. hours on social media
+Avg. hours of sleep"
+1401,-0.36757830303301825,5,0.3329837080712901,qAIhAdaI,"Number traffic violations
+Car insurance premium"
+1402,0.08800692956574196,4,0.28035528744674915,qAIhAdaI,"Median income
+Number of grocery stores"
+1403,0.33566331361279333,5,0.663745138982313,qAIhAdaI,"Years of education
+Income"
+1404,0.4141018861654753,5,0.5433914138179159,qAIhAdaI,"IQ
+Income"
+1405,0.30079680820298327,5,0.3682686741823298,qAIhAdaI,"Avg. hours on social media
+Depression severity"
+1406,0.446468782409015,5,0.1853820609425103,qAIhAdaI,"College GPA
+Post-college income"
+1407,0.18144388909604858,5,0.26624490148242663,qAIhAdaI,"Number of religious population
+racial diversity"
+1408,0.3264487451038087,5,0.11916779550193479,qAIhAdaI,"Proportion of residents in poverty
+Crime rate"
+1409,0.4474734095166253,4,0.27319342085495246,qAIhAdaI,"Daily caloric intake
+Body weight"
+1410,0.5021457358905694,6,0.9898219331240838,uEp7xVPi,"College GPA
+Post-college income"
+1411,0.0,6,0.016717395525676026,uEp7xVPi,"Homeless population
+Uninsured population"
+1412,0.878727465163669,4,0.44556582511142695,uEp7xVPi,"Median income
+Number of grocery stores"
+1413,0.20410585659148972,6,1.1392590810205092,uEp7xVPi,"Avg. hours on social media
+Depression severity"
+1414,0.0,7,0.11350915356226149,uEp7xVPi,"Amount of rainfall
+Number of sunny days"
+1415,0.5279879021282556,6,0.9888630639095211,uEp7xVPi,"Years of education
+Income"
+1416,0.39490861412718914,1,0.7898172282543783,uEp7xVPi,"Daily calcium intake
+Avg. resting pulse"
+1417,0.0,4,0.7234037990996032,uEp7xVPi,"Minimum wage
+Unemployment rate"
+1418,0.5755380870755415,6,1.072328458851615,uEp7xVPi,"Parental income
+Children's SAT scores"
+1419,0.0,4,0.4048178660164998,uEp7xVPi,"Yearly meat consumption
+Yearly carbon emissions"
+1420,-0.49676340145948933,4,1.0601009755116266,uEp7xVPi,"Crime severity
+Prison sentence duration"
+1421,1.0,7,1.0,uEp7xVPi,"Proportion of residents in poverty
+Crime rate"
+1422,-0.9693355758546702,4,0.5623162728751576,uEp7xVPi,"Hours of TV watched in a month
+Number of books read in a month"
+1423,-1.0,7,0.19368316909062022,uEp7xVPi,"Hours playing video games
+Aggression"
+1424,0.0,7,0.034720094720153305,uEp7xVPi,"Number of movies attended
+Amount red meat eaten"
+1425,-0.07131671686399338,4,0.19616908928353527,uEp7xVPi,"Per capita gun ownership
+Shooting-related deaths"
+1426,0.0,1,0.4312038197486148,uEp7xVPi,"White blood cell count
+IQ"
+1427,1.0,6,1.043683598239324,uEp7xVPi,"Number of religious population
+racial diversity"
+1428,0.3762648961060886,6,0.7028251362632283,uEp7xVPi,"Homeless population
+Avg. education attainment"
+1429,-0.511982528738969,4,0.8782747378685021,uEp7xVPi,"Number traffic violations
+Car insurance premium"
+1430,0.7555426691863814,6,1.0080748728057138,uEp7xVPi,"Daily caloric intake
+Body weight"
+1431,-0.4921439965078039,5,1.0271482702733599,uEp7xVPi,"Avg. hours on social media
+Avg. hours of sleep"
+1432,1.0,6,0.9746529884770658,uEp7xVPi,"IQ
+Income"
+1433,1.0,4,0.9666499192090816,uEp7xVPi,"Percent body fat
+Red blood cell count"
+1434,0.0,6,0.48426672242160923,uEp7xVPi,"Immigrant population
+Number of Domestic violence incidents"
+1435,0.010050854992772917,6,0.26427575091221417,uEp7xVPi,"Immigrant population
+Crime rate"
+1436,0.47887406463780047,4,0.8863754322056334,uEp7xVPi,"SAT score
+College GPA"
+1437,0.6880285730730331,6,0.9388659777586725,uEp7xVPi,"Annual carbon emissions
+Global temperature increase"
+1438,0.0,1,0.23285279335554948,uEp7xVPi,"Number of pedestrians
+No. Violent crimes"
+1439,0.0,7,0.23749314306808245,uEp7xVPi,"Height
+College GPA"
+1440,0.0784630000183959,5,0.18717653598150802,ZQYzIP09,"Per capita gun ownership
+Shooting-related deaths"
+1441,-0.3478062585903326,5,0.1107949055214989,ZQYzIP09,"Percent body fat
+Red blood cell count"
+1442,-0.5858415158301691,5,0.3515582101421282,ZQYzIP09,"Immigrant population
+Number of Domestic violence incidents"
+1443,0.11257179827200958,4,0.2451910211477158,ZQYzIP09,"Daily calcium intake
+Avg. resting pulse"
+1444,-0.2738058269249209,6,0.6328540892141361,ZQYzIP09,"White blood cell count
+IQ"
+1445,0.26680630952208073,5,0.10585796830574457,ZQYzIP09,"Years of education
+Income"
+1446,0.49840799087840093,6,0.24306045990554903,ZQYzIP09,"Avg. hours on social media
+Depression severity"
+1447,0.30386540150441266,5,0.05735300415094402,ZQYzIP09,"Height
+College GPA"
+1448,-0.5658521124860358,6,0.08915971300528147,ZQYzIP09,"Proportion of residents in poverty
+Crime rate"
+1449,0.22864738472185064,5,0.040697637487604466,ZQYzIP09,"IQ
+Income"
+1450,0.5083193648938782,6,0.430342835410392,ZQYzIP09,"Parental income
+Children's SAT scores"
+1451,-0.21575318737893667,6,0.19105295956142843,ZQYzIP09,"Hours playing video games
+Aggression"
+1452,0.3456558731141044,5,0.23236799208817516,ZQYzIP09,"Homeless population
+Uninsured population"
+1453,0.3747717278521059,5,0.8347177038640863,ZQYzIP09,"Number of religious population
+racial diversity"
+1454,-0.5041667378972832,5,0.1265764055833336,ZQYzIP09,"Homeless population
+Avg. education attainment"
+1455,-0.7606761551711776,6,0.3983378848392085,ZQYzIP09,"Hours of TV watched in a month
+Number of books read in a month"
+1456,-0.5967828690561987,6,0.12797900441112908,ZQYzIP09,"Minimum wage
+Unemployment rate"
+1457,0.7294291398048045,5,0.5469348055884997,ZQYzIP09,"Daily caloric intake
+Body weight"
+1458,-0.7763979307552682,6,0.04859526332267716,ZQYzIP09,"Amount of rainfall
+Number of sunny days"
+1459,0.2879283618264228,6,0.3912171222547729,ZQYzIP09,"Immigrant population
+Crime rate"
+1460,0.23137900822214674,5,0.17615104912964097,ZQYzIP09,"College GPA
+Post-college income"
+1461,-0.061028559349819655,4,0.1555129970575327,ZQYzIP09,"Number of movies attended
+Amount red meat eaten"
+1462,0.4091795458615297,5,0.23385590255831645,ZQYzIP09,"SAT score
+College GPA"
+1463,0.43267733785026885,5,0.29924028399073777,ZQYzIP09,"Yearly meat consumption
+Yearly carbon emissions"
+1464,0.6733275650332176,6,0.08929956470765199,ZQYzIP09,"Annual carbon emissions
+Global temperature increase"
+1465,0.1341828555424962,6,0.06857001708618893,ZQYzIP09,"Number of pedestrians
+No. Violent crimes"
+1466,0.2272718705429846,5,0.8836808089589248,ZQYzIP09,"Median income
+Number of grocery stores"
+1467,-0.33120235746136983,5,0.5984206213723084,ZQYzIP09,"Crime severity
+Prison sentence duration"
+1468,0.3100893074947402,6,0.06078813794194127,ZQYzIP09,"Avg. hours on social media
+Avg. hours of sleep"
+1469,0.5476991785227205,6,0.32214123477988577,ZQYzIP09,"Number traffic violations
+Car insurance premium"
+1470,-0.5542126539630243,5,0.42459081812753374,klMExe2G,"Immigrant population
+Number of Domestic violence incidents"
+1471,0.8931170248622031,7,0.22126226391598225,klMExe2G,"Annual carbon emissions
+Global temperature increase"
+1472,1.0,7,0.0,klMExe2G,"Proportion of residents in poverty
+Crime rate"
+1473,0.008873707005449205,4,0.8881468199713609,klMExe2G,"Amount of rainfall
+Number of sunny days"
+1474,-0.5378100048048418,5,0.4572046455372787,klMExe2G,"Crime severity
+Prison sentence duration"
+1475,1.0,7,0.03121114814342474,klMExe2G,"Daily caloric intake
+Body weight"
+1476,0.6320653452134137,6,0.33105688865776406,klMExe2G,"College GPA
+Post-college income"
+1477,-0.7623419845291133,5,0.7928279590886234,klMExe2G,"Homeless population
+Avg. education attainment"
+1478,1.0,7,0.0972971258535722,klMExe2G,"Hours of TV watched in a month
+Number of books read in a month"
+1479,0.9083518807429947,7,0.1532934724197661,klMExe2G,"Years of education
+Income"
+1480,-1.0,6,0.15683051929291136,klMExe2G,"Number of pedestrians
+No. Violent crimes"
+1481,-0.9742372723943626,7,0.1012703936042656,klMExe2G,"Parental income
+Children's SAT scores"
+1482,0.2696135848011898,5,0.24344383175125883,klMExe2G,"Avg. hours on social media
+Depression severity"
+1483,0.17089755195745604,4,0.34814691447563834,klMExe2G,"IQ
+Income"
+1484,-1.0,6,0.122297561001949,klMExe2G,"SAT score
+College GPA"
+1485,-0.015882135399007735,3,0.27458582373281115,klMExe2G,"Percent body fat
+Red blood cell count"
+1486,0.8592681711909462,6,0.3037933551130587,klMExe2G,"Per capita gun ownership
+Shooting-related deaths"
+1487,0.0032259754264751805,2,0.23976803346388098,klMExe2G,"Number of religious population
+racial diversity"
+1488,-1.0,5,0.23175354142800497,klMExe2G,"Hours playing video games
+Aggression"
+1489,-1.0,5,0.12075319527376216,klMExe2G,"Yearly meat consumption
+Yearly carbon emissions"
+1490,0.020904315724935563,1,1.6740617204574302,klMExe2G,"Daily calcium intake
+Avg. resting pulse"
+1491,0.0027866417782616004,1,1.4136075518466404,klMExe2G,"Homeless population
+Uninsured population"
+1492,-1.0,7,0.04410364893593033,klMExe2G,"Height
+College GPA"
+1493,0.4529458659221759,5,0.4936267265802097,klMExe2G,"Minimum wage
+Unemployment rate"
+1494,-1.0,6,0.14982581909114723,klMExe2G,"Immigrant population
+Crime rate"
+1495,1.0,7,0.06766697678006661,klMExe2G,"Avg. hours on social media
+Avg. hours of sleep"
+1496,0.0915249511759606,4,0.5545583974397306,klMExe2G,"Median income
+Number of grocery stores"
+1497,-1.0,7,0.10550573974386457,klMExe2G,"Number of movies attended
+Amount red meat eaten"
+1498,0.9525094506141187,7,0.10980968585086726,klMExe2G,"Number traffic violations
+Car insurance premium"
+1499,-0.9425904587397684,2,0.29470630339602044,klMExe2G,"White blood cell count
+IQ"

@@ -1,0 +1,63 @@
+,belief,belief,uncertainty,uncertainty,agreement,confidence
+,mean,std,mean,std,,
+vars,,,,,,
+"Amount of rainfall
+Number of sunny days",-0.2799860021651021,0.6268311049095504,0.36392267844471154,0.3789485611917322,low_agreement,high_confidence
+"Annual carbon emissions
+Global temperature increase",0.6305532811026789,0.5038975356510916,0.3404027969400631,0.36778220018502283,low_agreement,high_confidence
+"Avg. hours on social media
+Avg. hours of sleep",-0.22668682038113544,0.5992350666856935,0.5105629649588828,0.4150432631832172,low_agreement,low_confidence
+"Avg. hours on social media
+Depression severity",0.4087076146859836,0.45965801411814583,0.5095666263858947,0.4693747000186113,high_agreement,low_confidence
+"College GPA
+Post-college income",0.21390085755305605,0.4430117655751104,0.5173334293437205,0.4634179713546093,high_agreement,low_confidence
+"Crime severity
+Prison sentence duration",0.4716909960782595,0.5986438923678877,0.4345142186766949,0.38918666385179246,low_agreement,high_confidence
+"Daily calcium intake
+Avg. resting pulse",0.15882246415976126,0.3743117710689564,0.6214719139798145,0.496141030559185,high_agreement,low_confidence
+"Daily caloric intake
+Body weight",0.6272880339102053,0.5127982879123243,0.43483379008075884,0.39304598863235973,low_agreement,high_confidence
+"Height
+College GPA",-0.13774012909517297,0.4199744613412637,0.3556351689250429,0.46982682433881867,high_agreement,high_confidence
+"Homeless population
+Avg. education attainment",-0.1521010230896199,0.5980659863197868,0.45985242896614104,0.38454082357404457,low_agreement,high_confidence
+"Homeless population
+Uninsured population",0.5155579918573888,0.5395203727106376,0.37897434133287144,0.2930948268900973,low_agreement,high_confidence
+"Hours of TV watched in a month
+Number of books read in a month",-0.45782037990086344,0.6595196757195957,0.49758453994482915,0.4753850084810566,low_agreement,low_confidence
+"Hours playing video games
+Aggression",0.19129393137164363,0.45984590023103383,0.4640131819768916,0.4396920321475997,high_agreement,high_confidence
+"IQ
+Income",0.41424101289544885,0.4388735479892403,0.525415241870185,0.43352831085755694,high_agreement,low_confidence
+"Immigrant population
+Crime rate",-0.011760108231963962,0.46268208671021804,0.46907045962841076,0.45087647872895553,high_agreement,low_confidence
+"Immigrant population
+Number of Domestic violence incidents",-0.021457288172776156,0.46459255116537995,0.5216197452336754,0.5133153351414805,high_agreement,low_confidence
+"Median income
+Number of grocery stores",0.45027788895766,0.40691778555839764,0.4662818645967586,0.28990570459150833,high_agreement,high_confidence
+"Minimum wage
+Unemployment rate",-0.037725139001759646,0.5684905284010286,0.48321374713541615,0.37644429253512174,low_agreement,low_confidence
+"Number of movies attended
+Amount red meat eaten",0.0629237721708892,0.3419837890659617,0.34350772593167916,0.37647324592503256,high_agreement,high_confidence
+"Number of pedestrians
+No. Violent crimes",0.17416632749177213,0.43007624724175086,0.5216167856199676,0.4273731703317207,high_agreement,low_confidence
+"Number of religious population
+racial diversity",0.1499855115382977,0.5163751842157845,0.5424772617319623,0.4968003173383697,low_agreement,low_confidence
+"Number traffic violations
+Car insurance premium",0.6294907482839798,0.4768721582201923,0.3572328113810228,0.38778472086922705,low_agreement,high_confidence
+"Parental income
+Children's SAT scores",0.43042498598123735,0.39158011378322566,0.49154228901363434,0.4518461078604079,high_agreement,low_confidence
+"Per capita gun ownership
+Shooting-related deaths",0.39213227683278185,0.5618211420782636,0.4006956267351767,0.37312762751667156,low_agreement,high_confidence
+"Percent body fat
+Red blood cell count",0.14008488795295598,0.4652717677022159,0.6682653056422607,0.5734892717895337,low_agreement,low_confidence
+"Proportion of residents in poverty
+Crime rate",0.533132154767106,0.3768513550397166,0.4298388526668057,0.3886243615293676,high_agreement,high_confidence
+"SAT score
+College GPA",0.37149604962127236,0.5022305758174229,0.5870944269934766,0.4862624513820732,low_agreement,low_confidence
+"White blood cell count
+IQ",-0.03552555924813211,0.40382700779304953,0.5294718658295108,0.5809600167841241,high_agreement,low_confidence
+"Yearly meat consumption
+Yearly carbon emissions",0.32060704868834866,0.5792464134014271,0.4204383760380118,0.36026904853163627,low_agreement,high_confidence
+"Years of education
+Income",0.5052757073020644,0.4251256024867731,0.4506327674858221,0.4112281096419575,high_agreement,high_confidence

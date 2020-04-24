@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Visualizing Bivariate Relationships</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+      integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
+      integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+      crossorigin=""
+    ></script>
+
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.js"
+      integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="/css/instructions.css" />
+  </head>
+  <body>
+    <div class="container bg-light main" id="instructions">
+      <h3>Instructions - Uncertainty</h3>
+      <p>
+        for eeach variable pair out of a total of 16, After you tell us what you
+        believe about the relationship between the pair, we will show you a
+        visualization created with a sample of data collected from the real
+        world.
+      </p>
+
+      <p>
+        In addition to the scatter plot of the data, you will also see an
+        animated set of lines on top of the scatter plot. The lines represent
+        the
+        <b>set of plausible relationships</b> between the two variables
+        <b>based on the data points that are shown in the scatter plot.</b>
+        Lines that appear more often in the animation are more likely to
+        represent the true relationship between the variables, based on the
+        dataset shown in the scatter plot.
+      </p>
+      <hr />
+      <p>
+        For example, for a set of data in which the two variables have a strong
+        <b>positive</b> relationship, the chart might look like this:
+      </p>
+
+      <img class="img-centered" src="/images/HopConfident.gif" height="500px" />
+      <hr />
+      <p>
+        For a set of data in which the relationship is
+        <b>slightly negative</b> but there is <b>more uncertainty</b>, the chart
+        might look like this:
+      </p>
+
+      <img class="img-centered" src="/images/HopUncertain.gif" height="500px" />
+      <p>
+        As in the first round, for each dataset you are shown, you should
+        compare the relationship in the observed data to your preexisting belief
+        about the relationship between the two variables.
+      </p>
+      <hr />
+      <div class="row">
+        <div class="col" style="text-align: center;">
+          <p>Press Continue below to learn more about the next steps.</p>
+
+          <button type="submit" class="btn btn-secondary" id="consent">
+            Continue
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- <script src="/js/article.js"></script> -->
+    <!-- <script src="/js/study.js"></script> -->
+    <script>
+      $("#sidebar").height(function () {
+        return $("html").height();
+      });
+    </script>
+    <script>
+      //    window.location.assign("/consent");
+      $("#consent").click(function (event) {
+        event.preventDefault();
+        window.location.assign("/intermission");
+      });
+    </script>
+  </body>
+</html>
