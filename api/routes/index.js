@@ -119,8 +119,8 @@ router.get("/api/consent/mturk", function (req, res) {
     //signifies wether we start with dataset 1 or dataset 2 (political or not)
     req.session.levelIndex = 0;
     // this will change to the actual group later. Might be a better way of doing this.
-    // req.session.visGroup = visGroups[getRandomInt(visGroups.length)];
-    req.session.visGroup = "band";
+    req.session.visGroup = visGroups[getRandomInt(visGroups.length)];
+    // req.session.visGroup = "band";
     //user's unique token
     req.session.userid = token;
     req.session.completed = false;
