@@ -83,12 +83,12 @@
   </head>
   <body>
     <div class="container bg-light main" id="instructions">
-      <h3>Instructions - Round 1</h3>
+      <h3>Instruction - Eliciting Your Belief About Relationships</h3>
 
       <p>
         Throughout the task you will create a line chart which represents your
         belief about the true relationship between two variables. In this page,
-        we will practice with the line chart!
+        we will practice with the line and cone interactive chart!
       </p>
       <!-- 
       <img
@@ -100,9 +100,9 @@
       <p>
         The red line represents what you think is the
         <b>most likely</b> relationship between the two variables. First you
-        will <em>move</em> the mouse to adjust the angle of the line according to what you
-        think is the most likely relationship, then you will <em>click</em> the
-        mouse button to record your response.
+        will <em>move</em> the mouse to adjust the angle of the line according
+        to what you think is the most likely relationship, then you will
+        <em>click</em> the mouse button to record your response.
       </p>
 
       <p>
@@ -116,28 +116,28 @@
 
       <hr />
       <p>
-        Let's practice recording your belief about the relationship between
-        two variables, weight and height. Move the mouse over the chart until
-        the angle of the red line represents what you think is the <b>most likely
-        relationship</b> between the variables Weight and Height, then click to
-        record your response. Next, move the mouse again in order to adjust the
-        <b>set of plausible alternatives</b> (gray lines) to include relationships
-        between the two variables that are plausible, but less likely, than the
-        red line. When you are finished, click the mouse again to record your
-        response.
+        Let's practice recording your belief about the relationship between two
+        variables, weight and height. Move the mouse over the chart until the
+        angle of the red line represents what you think is the
+        <b>most likely relationship</b> between the variables Weight and Height,
+        then click to record your response. Next, move the mouse again in order
+        to adjust the <b>set of plausible alternatives</b> (gray lines) to
+        include relationships between the two variables that are plausible, but
+        less likely, than the red line. When you are finished, click the mouse
+        again to record your response.
       </p>
 
       <div class="chartChoice">
         <div class="row charts">
           <div class="col-6 chartdraw">
-            <div id="chart1" class="chart" style="margin: 0 auto"></div>
+            <div id="chart1" class="chart" style="margin: 0 auto;"></div>
           </div>
         </div>
 
         <p>
-        If you need to adjust your response, you can click on the Reset button to 
-        start over. Your responses should indicate your "best guess" about the true
-        relationship between the set of variables.
+          If you need to adjust your response, you can click on the Reset button
+          to start over. Your responses should indicate your "best guess" about
+          the true relationship between the set of variables.
         </p>
 
         <hr />
@@ -147,13 +147,14 @@
           uncertain you are about the relationship between the two variables.
           For example, if you were highly confident that height and weight had a
           strongly positive relationship (such that taller people almost always
-          weigh more than shorter people) then your response might look something like this:
+          weigh more than shorter people) then your response might look
+          something like this:
         </p>
 
         <img
           class="exampleImage"
           src="/images/confExample.png"
-          style="margin: 0 auto; display:block"
+          style="margin: 0 auto; display: block;"
           alt=""
         />
 
@@ -167,13 +168,13 @@
         <img
           class="exampleImage"
           src="/images/uncertainExample.png"
-          style="margin: 0 auto; display:block"
+          style="margin: 0 auto; display: block;"
           alt=""
         />
 
         <div class="row choices">
           <div class="col" style="margin: 0 auto; text-align: center;">
-            <button class="btn btn-secondary" style="margin: 0 auto" id="next">
+            <button class="btn btn-secondary" style="margin: 0 auto;" id="next">
               Continue
             </button>
           </div>
@@ -190,7 +191,7 @@
     <img class="loader" src="/images/loader.gif" />
     <script src="/js/lineChartDraw.js"></script>
     <script>
-      $("#sidebar").height(function() {
+      $("#sidebar").height(function () {
         return $("html").height();
       });
     </script>
@@ -209,7 +210,7 @@
       var uniform = d3.randomUniform(-1, 1);
       var slope1 = uniform();
       chart1.createChart(slope1);
-      $("#next").click(function(event) {
+      $("#next").click(function (event) {
         event.preventDefault;
         if (variableIndex === variables.length - 1) {
           if (uncertaintySelected & selected) {
@@ -222,7 +223,7 @@
         } else {
           $(".loader").css("display", "block");
           $(".main").css("opacity", "0.1");
-          setTimeout(function() {
+          setTimeout(function () {
             $(".loader").css("display", "none");
             $(".main").css("opacity", "1");
           }, 1000);

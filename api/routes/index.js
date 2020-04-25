@@ -46,6 +46,7 @@ let variables = jsonData.map((d) => {
   return d["vars"];
 });
 // console.log(variables);
+// console.log(variables);
 
 let states = ["draw1", "dataViz", "draw2"];
 let visGroups = ["line", "band", "hop"];
@@ -172,7 +173,7 @@ router.get("/api/consent/mturk", function (req, res) {
 
       let newResponse = new Response({
         usertoken: token,
-        variables1: req.session.variables,
+        variables: req.session.variables,
         visGroup: req.session.visGroup,
         participantGroup: "mturk",
       });
