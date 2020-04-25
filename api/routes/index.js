@@ -7,6 +7,7 @@ const MultivariateNormal = require("multivariate-normal").default;
 // const csv = require("csv-parser");
 const fs = require("fs");
 const math = require("mathjs");
+
 // console.log(__dirname);
 let rawdata = fs.readFileSync("./public/data/finalVariables.json");
 let jsonData = JSON.parse(rawdata);
@@ -47,8 +48,15 @@ let variables = jsonData.map((d) => {
 // console.log(variables);
 
 let states = ["draw1", "dataViz", "draw2"];
-let visGroups = ["band", "hop"];
-const maxEachGroup = 100;
+let visGroups = ["line", "band", "hop"];
+
+let visGroupCounts = {
+  line: 0,
+  band: 0,
+  hop: 0,
+};
+
+const maxEachGroup = 125;
 
 // let variables = Object.keys(jsonData).map(function(d) {
 //   return jsonData[d]["vars"];
@@ -119,8 +127,8 @@ router.get("/api/consent/mturk", function (req, res) {
     //signifies wether we start with dataset 1 or dataset 2 (political or not)
     req.session.levelIndex = 0;
     // this will change to the actual group later. Might be a better way of doing this.
-    req.session.visGroup = visGroups[getRandomInt(visGroups.length)];
-    // req.session.visGroup = "band";
+
+    // req.session.visGroup = "line";
     //user's unique token
     req.session.userid = token;
     req.session.completed = false;
@@ -136,17 +144,44 @@ router.get("/api/consent/mturk", function (req, res) {
     //this assigns a string format of state i.e. draw1, datavis, draw2
     req.session.state = states[req.session.stateIndex];
 
-    let newResponse = new Response({
-      usertoken: token,
-      variables1: req.session.variables,
-      visGroup: req.session.visGroup,
-      participantGroup: "mturk",
-    });
+    let visgroupcounts = Response.aggregate([
+      { $match: { responses: { $size: 48 } } },
+      { $group: { _id: "$visGroup", count: { $sum: 1 } } },
+    ]).exec();
 
-    newResponse.save(function (err) {
-      if (err) console.log(err);
-      res.send({
-        user: token,
+    visgroupcounts.then((result) => {
+      result.forEach((v) => {
+        visGroupCounts[v["_id"]] = v["count"];
+      });
+
+      console.log(visGroupCounts);
+
+      visGroups = Object.keys(visGroupCounts).filter((key) => {
+        return visGroupCounts[key] <= maxEachGroup;
+      });
+
+      if (visGroups.length === 0) {
+        visGroups = ["line", "band", "hop"];
+      }
+
+      console.log(visGroups);
+
+      req.session.visGroup = visGroups[getRandomInt(visGroups.length)];
+
+      console.log(req.session.visGroup);
+
+      let newResponse = new Response({
+        usertoken: token,
+        variables1: req.session.variables,
+        visGroup: req.session.visGroup,
+        participantGroup: "mturk",
+      });
+
+      newResponse.save(function (err) {
+        if (err) console.log(err);
+        res.send({
+          user: token,
+        });
       });
     });
   } else {
@@ -615,15 +650,17 @@ function generateData(preRho = 0, congruent = false, n = 10) {
     }
   }
   // let dataRho = 0.5;
-
-  console.log("congruent");
+  console.log(`congruent: ${congruent}`);
   console.log(dataRho);
-  console.log(preRho);
   if (dataRho > thresh) {
     dataRho = thresh;
   } else if (dataRho < -0.75) {
     dataRho = -thresh;
   }
+
+  console.log(dataRho);
+  console.log(preRho);
+
   let covarianceMatrix = [
     [1.0, dataRho],
     [dataRho, 1.0],
@@ -634,6 +671,24 @@ function generateData(preRho = 0, congruent = false, n = 10) {
     sample = distribution.sample();
     outData.push({ x: sample[0], y: sample[1] });
   }
+  let xAvg = math.mean(
+    outData.map((o) => {
+      return o.x;
+    })
+  );
+  let yAvg = math.mean(
+    outData.map((o) => {
+      // console.log(o);
+      return o.y;
+    })
+  );
+
+  outData = outData.map((xy) => {
+    return { x: xy["x"] - xAvg, y: xy["y"] - yAvg };
+  });
+
+  // console.log(outData);
+
   return outData;
 }
 
