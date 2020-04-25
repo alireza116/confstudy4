@@ -167,7 +167,8 @@ router.get("/api/consent/mturk", function (req, res) {
 
       console.log(visGroups);
 
-      req.session.visGroup = visGroups[getRandomInt(visGroups.length)];
+      // req.session.visGroup = visGroups[getRandomInt(visGroups.length)];
+      req.session.visGroup = "line";
 
       console.log(req.session.visGroup);
 
